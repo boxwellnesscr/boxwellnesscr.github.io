@@ -488,9 +488,9 @@ async function loadData() {
     console.warn('No se pudo cargar productos.json. Usando datos de ejemplo.');
     // Fallback inline data for development with file://
     allProducts = [
-      { id: '001', nombre: 'Whey Protein 5LB', marca: 'Allmax', precio: 48900, precioAnterior: 55000, categoria: 'proteinas', descripcion: 'Proteína de alta calidad.', emoji: '💪', badge: 'oferta', destacado: true, disponible: true, whatsapp: '50688880000' },
-      { id: '002', nombre: 'Pre-Workout Elite', marca: 'Bucked Up', precio: 38500, precioAnterior: null, categoria: 'pre-workout', descripcion: 'Máxima energía.', emoji: '⚡', badge: 'nuevo', destacado: true, disponible: true, whatsapp: '50688880000' },
-      { id: '003', nombre: 'Creatina 1KG', marca: 'Rule One', precio: 18500, precioAnterior: 22000, categoria: 'creatina', descripcion: 'Creatina pura.', emoji: '🔬', badge: 'oferta', destacado: true, disponible: true, whatsapp: '50688880000' },
+      { id: '001', nombre: 'Whey Protein 5LB', marca: 'Allmax', precio: 48900, precioAnterior: 55000, categoria: 'proteinas', descripcion: 'Proteína de alta calidad.', emoji: '💪', badge: 'oferta', destacado: true, disponible: true, whatsapp: '50661179692' },
+      { id: '002', nombre: 'Pre-Workout Elite', marca: 'Bucked Up', precio: 38500, precioAnterior: null, categoria: 'pre-workout', descripcion: 'Máxima energía.', emoji: '⚡', badge: 'nuevo', destacado: true, disponible: true, whatsapp: '50661179692' },
+      { id: '003', nombre: 'Creatina 1KG', marca: 'Rule One', precio: 18500, precioAnterior: 22000, categoria: 'creatina', descripcion: 'Creatina pura.', emoji: '🔬', badge: 'oferta', destacado: true, disponible: true, whatsapp: '50661179692' },
     ];
     allStacks = [];
   }
