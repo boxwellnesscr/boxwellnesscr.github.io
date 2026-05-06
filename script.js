@@ -4,8 +4,8 @@
 
 // ── CONFIG ──────────────────────────────────────────────────
 const CONFIG = {
-  storeName:    'Stack Nutrition',
-  whatsapp:     '50688880000',       // fallback global
+  storeName:    'BOX Wellness',
+  whatsapp:     '50661179692',       // fallback global
   currency:     '₡',
   dataFile:     'productos.json',
 };
