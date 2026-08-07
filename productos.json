@@ -122,7 +122,7 @@
       "id": "004",
       "nombre": "Nutrex Creatina Monohidrato Sin Sabor",
       "marca": "NUTREX",
-      "precio": 29000,
+      "precio": 24900,
       "precioAnterior": null,
       "categorias": [
         "creatinas"
@@ -137,8 +137,8 @@
       ],
       "modoDeUso": "Mezclar 1 scoop (5g) en agua o batido. Consumir a diario sin interrupciones para mantener los depósitos de creatina muscular siempre llenos.",
       "emoji": "🔬",
-      "imagen": "",
-      "imagenNutricional": "",
+      "imagen": "imagenes/004.jpeg",
+      "imagenNutricional": "imagenes/004.jpeg",
       "sabores": [
         {
           "nombre": "Sin sabor 🥄",
