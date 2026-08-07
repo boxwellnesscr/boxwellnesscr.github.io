@@ -1,264 +1,2582 @@
 {
   "productos": [
     {
-      "BOXWELLNESS — Catálogo de Productos (Enriquecido)": "ℹ️ Todos los productos están disponibles (TRUE) y visibles, incluso sin precio (₡0). Columnas con * son obligatorias. Separador de listas: | (barra vertical).",
-      "": ""
-    },
-    {
-      "BOXWELLNESS — Catálogo de Productos (Enriquecido)": "Número único",
-      "": "Uso interno"
-    },
-    {
-      "BOXWELLNESS — Catálogo de Productos (Enriquecido)": "001",
-      "": ""
-    },
-    {
-      "BOXWELLNESS — Catálogo de Productos (Enriquecido)": "002",
-      "": ""
-    },
-    {
-      "BOXWELLNESS — Catálogo de Productos (Enriquecido)": "003",
-      "": ""
-    },
-    {
-      "BOXWELLNESS — Catálogo de Productos (Enriquecido)": "004",
-      "": ""
-    },
-    {
-      "BOXWELLNESS — Catálogo de Productos (Enriquecido)": "005",
-      "": ""
-    },
-    {
-      "BOXWELLNESS — Catálogo de Productos (Enriquecido)": "006",
-      "": ""
-    },
-    {
-      "BOXWELLNESS — Catálogo de Productos (Enriquecido)": "007",
-      "": ""
-    },
-    {
-      "BOXWELLNESS — Catálogo de Productos (Enriquecido)": "008",
-      "": ""
-    },
-    {
-      "BOXWELLNESS — Catálogo de Productos (Enriquecido)": "009",
-      "": "Pendiente de definir precio"
-    },
-    {
-      "BOXWELLNESS — Catálogo de Productos (Enriquecido)": "010",
-      "": ""
-    },
-    {
-      "BOXWELLNESS — Catálogo de Productos (Enriquecido)": "011",
-      "": ""
-    },
-    {
-      "BOXWELLNESS — Catálogo de Productos (Enriquecido)": "012",
-      "": ""
-    },
-    {
-      "BOXWELLNESS — Catálogo de Productos (Enriquecido)": "013",
-      "": ""
-    },
-    {
-      "BOXWELLNESS — Catálogo de Productos (Enriquecido)": "014",
-      "": ""
-    },
-    {
-      "BOXWELLNESS — Catálogo de Productos (Enriquecido)": "015",
-      "": ""
-    },
-    {
-      "BOXWELLNESS — Catálogo de Productos (Enriquecido)": "016",
-      "": ""
-    },
-    {
-      "BOXWELLNESS — Catálogo de Productos (Enriquecido)": "017",
-      "": ""
-    },
-    {
-      "BOXWELLNESS — Catálogo de Productos (Enriquecido)": "018",
-      "": ""
-    },
-    {
-      "BOXWELLNESS — Catálogo de Productos (Enriquecido)": "019",
-      "": "Pendiente de definir precio"
-    },
-    {
-      "BOXWELLNESS — Catálogo de Productos (Enriquecido)": "020",
-      "": "Pendiente de definir precio"
-    },
-    {
-      "BOXWELLNESS — Catálogo de Productos (Enriquecido)": "021",
-      "": "Pendiente de definir precio"
-    },
-    {
-      "BOXWELLNESS — Catálogo de Productos (Enriquecido)": "022",
-      "": "Pendiente de definir precio"
-    },
-    {
-      "BOXWELLNESS — Catálogo de Productos (Enriquecido)": "023",
-      "": "Pendiente de definir precio"
-    },
-    {
-      "BOXWELLNESS — Catálogo de Productos (Enriquecido)": "024",
-      "": "Pendiente de definir precio"
-    },
-    {
-      "BOXWELLNESS — Catálogo de Productos (Enriquecido)": "025",
-      "": "Pendiente de definir precio"
-    },
-    {
-      "BOXWELLNESS — Catálogo de Productos (Enriquecido)": "026",
-      "": "Pendiente de definir precio"
-    },
-    {
-      "BOXWELLNESS — Catálogo de Productos (Enriquecido)": "027",
-      "": "Pendiente de definir precio"
-    },
-    {
-      "BOXWELLNESS — Catálogo de Productos (Enriquecido)": "028",
-      "": ""
-    },
-    {
-      "BOXWELLNESS — Catálogo de Productos (Enriquecido)": "029",
-      "": ""
-    },
-    {
-      "BOXWELLNESS — Catálogo de Productos (Enriquecido)": "030",
-      "": ""
-    },
-    {
-      "BOXWELLNESS — Catálogo de Productos (Enriquecido)": "031",
-      "": "Pendiente de definir precio"
-    },
-    {
-      "BOXWELLNESS — Catálogo de Productos (Enriquecido)": "032",
-      "": "Pendiente de definir precio"
-    },
-    {
-      "BOXWELLNESS — Catálogo de Productos (Enriquecido)": "033",
-      "": "Pendiente de definir precio"
-    },
-    {
-      "BOXWELLNESS — Catálogo de Productos (Enriquecido)": "034",
-      "": "Pendiente de definir precio"
-    },
-    {
-      "BOXWELLNESS — Catálogo de Productos (Enriquecido)": "035",
-      "": "Pendiente de definir precio"
-    },
-    {
-      "BOXWELLNESS — Catálogo de Productos (Enriquecido)": "036",
-      "": "Pendiente de definir precio"
-    },
-    {
-      "BOXWELLNESS — Catálogo de Productos (Enriquecido)": "037",
-      "": "Pendiente de definir precio"
-    },
-    {
-      "BOXWELLNESS — Catálogo de Productos (Enriquecido)": "038",
-      "": ""
-    },
-    {
-      "BOXWELLNESS — Catálogo de Productos (Enriquecido)": "039",
-      "": "Pendiente de definir precio"
-    },
-    {
-      "BOXWELLNESS — Catálogo de Productos (Enriquecido)": "040",
-      "": "Pendiente de definir precio"
-    },
-    {
-      "BOXWELLNESS — Catálogo de Productos (Enriquecido)": "041",
-      "": ""
-    },
-    {
-      "BOXWELLNESS — Catálogo de Productos (Enriquecido)": "042",
-      "": ""
-    },
-    {
-      "BOXWELLNESS — Catálogo de Productos (Enriquecido)": "043",
-      "": "Pendiente de definir precio"
-    },
-    {
-      "BOXWELLNESS — Catálogo de Productos (Enriquecido)": "044",
-      "": "Pendiente de definir precio"
-    },
-    {
-      "BOXWELLNESS — Catálogo de Productos (Enriquecido)": "045",
-      "": "Pendiente de definir precio"
-    },
-    {
-      "BOXWELLNESS — Catálogo de Productos (Enriquecido)": "046",
-      "": "Pendiente de definir precio"
-    },
-    {
-      "BOXWELLNESS — Catálogo de Productos (Enriquecido)": "047",
-      "": "Pendiente de definir precio"
-    },
-    {
-      "BOXWELLNESS — Catálogo de Productos (Enriquecido)": "048",
-      "": "Pendiente de definir precio"
-    },
-    {
-      "BOXWELLNESS — Catálogo de Productos (Enriquecido)": "049",
-      "": "Pendiente de definir precio"
-    },
-    {
-      "BOXWELLNESS — Catálogo de Productos (Enriquecido)": "050",
-      "": "Pendiente de definir precio"
-    },
-    {
-      "BOXWELLNESS — Catálogo de Productos (Enriquecido)": "051",
-      "": "Pendiente de definir precio"
-    },
-    {
-      "BOXWELLNESS — Catálogo de Productos (Enriquecido)": "052",
-      "": "Pendiente de definir precio"
-    },
-    {
-      "BOXWELLNESS — Catálogo de Productos (Enriquecido)": "053",
-      "": "Pendiente de definir precio"
-    },
-    {
-      "BOXWELLNESS — Catálogo de Productos (Enriquecido)": "054",
-      "": "Pendiente de definir precio"
-    },
-    {
-      "BOXWELLNESS — Catálogo de Productos (Enriquecido)": "055",
-      "": "Pendiente de definir precio"
-    },
-    {
-      "BOXWELLNESS — Catálogo de Productos (Enriquecido)": "056",
-      "": "Pendiente de definir precio"
-    },
-    {
-      "BOXWELLNESS — Catálogo de Productos (Enriquecido)": "057",
-      "": "Pendiente de definir precio"
-    },
-    {
-      "BOXWELLNESS — Catálogo de Productos (Enriquecido)": "058",
-      "": "Pendiente de definir precio"
-    },
-    {
-      "BOXWELLNESS — Catálogo de Productos (Enriquecido)": "059",
-      "": "Pendiente de definir precio"
-    },
-    {
-      "BOXWELLNESS — Catálogo de Productos (Enriquecido)": "060",
-      "": "Pendiente de definir precio"
-    },
-    {
-      "BOXWELLNESS — Catálogo de Productos (Enriquecido)": "061",
-      "": "Pendiente de definir precio"
-    },
-    {
-      "BOXWELLNESS — Catálogo de Productos (Enriquecido)": "062",
-      "": "Pendiente de definir precio"
-    },
-    {
-      "BOXWELLNESS — Catálogo de Productos (Enriquecido)": "063",
-      "": "Pendiente de definir precio"
+      "id": "001",
+      "nombre": "NUTREX Creatina Monohidrato — Sabores",
+      "marca": "NUTREX",
+      "precio": 17300,
+      "precioAnterior": null,
+      "categorias": [
+        "creatinas"
+      ],
+      "descripcion": "La creatina de siempre, pero con un sabor que da ganas de tomarla. Monohidrato puro micronizado con los mismos beneficios comprobados: más fuerza, más repeticiones y mejor recuperación. Elegila por el sabor, quedatela por los resultados.",
+      "caracteristicas": [
+        "5g de creatina monohidrato por servicio",
+        "Fórmula micronizada de fácil disolución",
+        "Aumenta fuerza, potencia y volumen muscular",
+        "Mejora la recuperación entre series",
+        "Con sabor — ideal para quienes no toleran el sin sabor"
+      ],
+      "modoDeUso": "1 scoop (5g) , Tomar 1 vez al día, cualquier momento — antes o después de entrenar funciona igual gracias al efecto acumulativo de la creatina.",
+      "emoji": "🔬",
+      "imagen": "        imagenes/001.jpg",
+      "imagenNutricional": "",
+      "sabores": [
+        {
+          "nombre": "Fruit Punch 🍉",
+          "imagen": ""
+        },
+        {
+          "nombre": "Strawberry Watermelon 🍓",
+          "imagen": ""
+        }
+      ],
+      "tamanios": [
+        {
+          "nombre": "60 servidas (300g)",
+          "imagen": "",
+          "sabores": []
+        }
+      ],
+      "badge": "oferta",
+      "destacado": false,
+      "disponible": true
+    },
+    {
+      "id": "002",
+      "nombre": "Nutrex Creatina Monohidrato Sin Sabor",
+      "marca": "NUTREX",
+      "precio": 14900,
+      "precioAnterior": null,
+      "categorias": [
+        "creatinas"
+      ],
+      "descripcion": "La creatina más vendida en Costa Rica y no es casualidad. Monohidrato puro micronizado que mezclás con cualquier batido sin notar que está ahí. Más fuerza, más potencia, más músculo — sin retención de agua cuando no cargás. Punto.",
+      "caracteristicas": [
+        "5g de creatina monohidrato por servicio",
+        "100% pura, sin sabores ni colorantes",
+        "Se disuelve fácilmente en cualquier líquido",
+        "Aumenta fuerza y rendimiento en pocas semanas",
+        "La opción más versátil para combinar con otros suplementos"
+      ],
+      "modoDeUso": "Mezclar 1 scoop (5g) en agua, jugo o tu batido de proteína. Tomar diariamente — no es necesario hacer fase de carga, los resultados son acumulativos.",
+      "emoji": "🔬",
+      "imagen": "",
+      "imagenNutricional": "",
+      "sabores": [
+        {
+          "nombre": "Sin sabor 🥄",
+          "imagen": ""
+        }
+      ],
+      "tamanios": [
+        {
+          "nombre": "60 servidas (300g)",
+          "imagen": "",
+          "sabores": []
+        }
+      ],
+      "badge": "oferta",
+      "destacado": false,
+      "disponible": true
+    },
+    {
+      "id": "003",
+      "nombre": "Nutrex Creatina Monohidrato Sin Sabor",
+      "marca": "NUTREX",
+      "precio": 15900,
+      "precioAnterior": null,
+      "categorias": [
+        "creatinas"
+      ],
+      "descripcion": "El frasco mediano para quienes ya probaron la creatina NUTREX y quieren cubrir varios meses sin quedarse sin stock. Misma pureza, mismo monohidrato micronizado de siempre — solo que en mayor cantidad y mejor precio por servicio.",
+      "caracteristicas": [
+        "5g de creatina monohidrato por servicio",
+        "100 servicios — más de 3 meses de suplementación",
+        "Fórmula micronizada sin rellenos",
+        "Aumenta fuerza, potencia y masa muscular magra",
+        "Mejor costo por servicio que la presentación pequeña"
+      ],
+      "modoDeUso": "Mezclar 1 scoop (5g) con agua o tu bebida favorita. Tomar todos los días para mantener los niveles de creatina muscular saturados.",
+      "emoji": "🔬",
+      "imagen": "",
+      "imagenNutricional": "",
+      "sabores": [
+        {
+          "nombre": "Sin sabor 🥄",
+          "imagen": ""
+        }
+      ],
+      "tamanios": [
+        {
+          "nombre": "100 servidas (500g)",
+          "imagen": "",
+          "sabores": []
+        }
+      ],
+      "badge": "oferta",
+      "destacado": false,
+      "disponible": true
+    },
+    {
+      "id": "004",
+      "nombre": "Nutrex Creatina Monohidrato Sin Sabor",
+      "marca": "NUTREX",
+      "precio": 29000,
+      "precioAnterior": null,
+      "categorias": [
+        "creatinas"
+      ],
+      "descripcion": "El frasco grande para quienes ya hicieron de la creatina un hábito permanente. 200 servicios — casi 7 meses de suplementación constante al mejor costo por gramo. La opción de quien piensa en el largo plazo y no quiere comprar cada mes.",
+      "caracteristicas": [
+        "5g de creatina monohidrato por servicio",
+        "200 servicios — la presentación más rendidora",
+        "Calidad NUTREX al mejor precio por servicio",
+        "Aumenta fuerza, potencia y recuperación",
+        "Ideal para gimnasios o uso familiar/compartido"
+      ],
+      "modoDeUso": "Mezclar 1 scoop (5g) en agua o batido. Consumir a diario sin interrupciones para mantener los depósitos de creatina muscular siempre llenos.",
+      "emoji": "🔬",
+      "imagen": "",
+      "imagenNutricional": "",
+      "sabores": [
+        {
+          "nombre": "Sin sabor 🥄",
+          "imagen": ""
+        }
+      ],
+      "tamanios": [
+        {
+          "nombre": "200 servidas (1000g)",
+          "imagen": "",
+          "sabores": []
+        }
+      ],
+      "badge": null,
+      "destacado": false,
+      "disponible": true
+    },
+    {
+      "id": "005",
+      "nombre": "Nutrabio Ashwagandha",
+      "marca": "NUTRABIO",
+      "precio": 22200,
+      "precioAnterior": null,
+      "categorias": [
+        "suplementos",
+        "ashwaganda"
+      ],
+      "descripcion": "El adaptógeno que los atletas de alto rendimiento usan para entrenar más duro sin quemarse. Ashwagandha KSM-66 estandarizado reduce el cortisol, mejora la calidad del sueño y la recuperación. Porque el cuerpo rinde más cuando el estrés no lo sabotea.",
+      "caracteristicas": [
+        "Extracto estandarizado KSM-66",
+        "Reduce los niveles de cortisol (hormona del estrés)",
+        "Mejora la calidad y profundidad del sueño",
+        "Apoya la recuperación muscular y hormonal",
+        "90 cápsulas — 3 meses de suplementación"
+      ],
+      "modoDeUso": "Tomar 1-2 cápsulas al día, preferiblemente con la cena o antes de dormir, con un vaso de agua.",
+      "emoji": "🌿",
+      "imagen": "",
+      "imagenNutricional": "",
+      "sabores": [
+        {
+          "nombre": "Cápsulas 💊",
+          "imagen": ""
+        }
+      ],
+      "tamanios": [
+        {
+          "nombre": "90 servidas",
+          "imagen": "",
+          "sabores": []
+        }
+      ],
+      "badge": null,
+      "destacado": false,
+      "disponible": true
+    },
+    {
+      "id": "006",
+      "nombre": "Landerfit Omega 3",
+      "marca": "LANDERFIT",
+      "precio": 10300,
+      "precioAnterior": null,
+      "categorias": [
+        "suplementos",
+        "omega3"
+      ],
+      "descripcion": "Omega 3 de alta concentración para los que entrenan y cuidan sus articulaciones. Reduce inflamación post-entrenamiento, apoya la salud cardiovascular y mejora la recuperación muscular. De los mejores valores del mercado por servicio.",
+      "caracteristicas": [
+        "Alta concentración de EPA y DHA",
+        "Reduce la inflamación articular y muscular",
+        "Apoya la salud cardiovascular",
+        "Mejora la recuperación post-entrenamiento",
+        "120 cápsulas — 4 meses de suplementación diaria"
+      ],
+      "modoDeUso": "Tomar 1 cápsula al día con alimentos para mejor absorción. Para mayor beneficio antiinflamatorio, tomar 2 cápsulas diarias.",
+      "emoji": "🐟",
+      "imagen": "",
+      "imagenNutricional": "",
+      "sabores": [
+        {
+          "nombre": "Cápsulas 💊",
+          "imagen": ""
+        }
+      ],
+      "tamanios": [
+        {
+          "nombre": "120 servidas",
+          "imagen": "",
+          "sabores": []
+        }
+      ],
+      "badge": "oferta",
+      "destacado": false,
+      "disponible": true
+    },
+    {
+      "id": "007",
+      "nombre": "Nutrabio Whey Protein 5LB",
+      "marca": "NUTRABIO",
+      "precio": 46300,
+      "precioAnterior": null,
+      "categorias": [
+        "proteinas",
+        "whey"
+      ],
+      "descripcion": "Una de las proteínas más limpias del mercado — sin rellenos ni ingredientes propietarios. NutraBio publica el label completo porque no tiene nada que ocultar: lo que dice que tiene, lo tiene. Para los que no se conforman con cualquier cosa.",
+      "caracteristicas": [
+        "25g de proteína por servicio",
+        "Sin rellenos ni \"blends\" propietarios ocultos",
+        "Etiqueta 100% transparente",
+        "Mezcla de whey concentrado + aislado",
+        "5 libras — más de 2 meses de suministro"
+      ],
+      "modoDeUso": "Mezclar 1 scoop (30g) en 250-300ml de agua o leche. Consumir después del entrenamiento o entre comidas para completar tu requerimiento diario de proteína.",
+      "emoji": "💪",
+      "imagen": "",
+      "imagenNutricional": "",
+      "sabores": [
+        {
+          "nombre": "Chocolate 🍫",
+          "imagen": ""
+        },
+        {
+          "nombre": "Vainilla 🍦",
+          "imagen": ""
+        },
+        {
+          "nombre": "Galletas y Crema 🍪",
+          "imagen": ""
+        }
+      ],
+      "tamanios": [
+        {
+          "nombre": "5lb",
+          "imagen": "",
+          "sabores": []
+        }
+      ],
+      "badge": null,
+      "destacado": false,
+      "disponible": true
+    },
+    {
+      "id": "008",
+      "nombre": "Nutrabio D3 + K2 5000UI",
+      "marca": "NUTRABIO",
+      "precio": 18500,
+      "precioAnterior": null,
+      "categorias": [
+        "multivitaminicos",
+        "vitaminas"
+      ],
+      "descripcion": "La combinación que muchos médicos ya recomiendan: D3 para absorber calcio y K2 para que llegue a los huesos, no a las arterias. Ideal para personas con poca exposición al sol o que entrenan con alta intensidad. Un suplemento pequeño, un impacto enorme.",
+      "caracteristicas": [
+        "5000UI de Vitamina D3 por cápsula",
+        "Incluye Vitamina K2 para mejor absorción del calcio",
+        "Fortalece huesos y sistema inmune",
+        "Apoya la salud cardiovascular",
+        "60 cápsulas — 2 meses de suplementación"
+      ],
+      "modoDeUso": "Tomar 1 cápsula al día con una comida que contenga grasa (la D3 es liposoluble y se absorbe mejor así).",
+      "emoji": "🌿",
+      "imagen": "",
+      "imagenNutricional": "",
+      "sabores": [
+        {
+          "nombre": "Cápsulas 💊",
+          "imagen": ""
+        }
+      ],
+      "tamanios": [
+        {
+          "nombre": "60 servidas",
+          "imagen": "",
+          "sabores": []
+        }
+      ],
+      "badge": "oferta",
+      "destacado": false,
+      "disponible": true
+    },
+    {
+      "id": "009",
+      "nombre": "Animal Pak 44 Packs",
+      "marca": "UNIVERSAL / ANIMAL PACKS",
+      "precio": null,
+      "precioAnterior": null,
+      "categorias": [
+        "multivitaminicos",
+        "animal-packs"
+      ],
+      "descripcion": "El multivitamínico más icónico del bodybuilding mundial, con más de 40 años respaldando atletas de élite. Más de 40 nutrientes en un solo pack para quienes entrenan tan duro que no pueden darse el lujo de tener deficiencias. El seguro diario para tu cuerpo.",
+      "caracteristicas": [
+        "Más de 40 ingredientes activos por pack",
+        "Complejo completo de vitaminas y minerales",
+        "Incluye aminoácidos, enzimas digestivas y antioxidantes",
+        "Apoya energía, recuperación y rendimiento",
+        "44 packs — un mes completo de suplementación"
+      ],
+      "modoDeUso": "Tomar 1 pack completo al día con una comida abundante, idealmente dividiendo las tabletas en 2 tomas si causa molestia estomacal.",
+      "emoji": "🐾",
+      "imagen": "",
+      "imagenNutricional": "",
+      "sabores": [
+        {
+          "nombre": "Packs 📦",
+          "imagen": ""
+        }
+      ],
+      "tamanios": [
+        {
+          "nombre": "44 servidas (44 packs)",
+          "imagen": "",
+          "sabores": []
+        }
+      ],
+      "badge": null,
+      "destacado": false,
+      "disponible": true
+    },
+    {
+      "id": "010",
+      "nombre": "Muscletech Nitro Tech 2LB",
+      "marca": "MUSCLETECH",
+      "precio": 27500,
+      "precioAnterior": null,
+      "categorias": [
+        "proteinas",
+        "whey"
+      ],
+      "descripcion": "Proteína con creatina incluida — doble beneficio en cada scoop. Nitro Tech fue diseñada para atletas que buscan resultados visibles: más músculo, más rápido, con solo 160 calorías por servicio. Respaldo científico real detrás de cada lata.",
+      "caracteristicas": [
+        "30g de proteína whey + 3g de creatina por servicio",
+        "Solo 160 calorías por porción",
+        "Fórmula clínicamente probada",
+        "Rápida absorción para recuperación post-entreno",
+        "2 libras — presentación ideal para empezar"
+      ],
+      "modoDeUso": "Mezclar 1 scoop en 180-240ml de agua o leche fría. Consumir 1-2 veces al día, idealmente después del entrenamiento.",
+      "emoji": "💪",
+      "imagen": "",
+      "imagenNutricional": "",
+      "sabores": [
+        {
+          "nombre": "Chocolate Supremo 🍫",
+          "imagen": ""
+        },
+        {
+          "nombre": "Vainilla 🍦",
+          "imagen": ""
+        },
+        {
+          "nombre": "Fresa 🍓",
+          "imagen": ""
+        }
+      ],
+      "tamanios": [
+        {
+          "nombre": "2lb",
+          "imagen": "",
+          "sabores": []
+        }
+      ],
+      "badge": null,
+      "destacado": false,
+      "disponible": true
+    },
+    {
+      "id": "011",
+      "nombre": "Owala FreeSip 965ml",
+      "marca": "OWALA CR",
+      "precio": 13500,
+      "precioAnterior": null,
+      "categorias": [
+        "accesorios"
+      ],
+      "descripcion": "La botella que ya no perdés en el gym porque todo el mundo sabe que es tuya. Owala FreeSip no derrama, no huele a plástico y cabe en el portavasos del carro. Hidratación sin drama — elegante, durable y con el tamaño ideal para entrenamientos largos.",
+      "caracteristicas": [
+        "Capacidad de 965ml (32oz)",
+        "Sistema FreeSip: para sorber o beber a chorro",
+        "Tapa a prueba de derrames",
+        "Mantiene la temperatura por horas",
+        "Diseño que cabe en portavasos estándar"
+      ],
+      "modoDeUso": "Llenar con agua, hielo o tu bebida favorita. Apta para lavavajillas (verificar tapa). Ideal para llevar al gym, oficina o actividades al aire libre.",
+      "emoji": "💧",
+      "imagen": "",
+      "imagenNutricional": "",
+      "sabores": [
+        {
+          "nombre": "Varios colores 🎨",
+          "imagen": ""
+        }
+      ],
+      "tamanios": [
+        {
+          "nombre": "1 unidad (965ml)",
+          "imagen": "",
+          "sabores": []
+        }
+      ],
+      "badge": "oferta",
+      "destacado": false,
+      "disponible": true
+    },
+    {
+      "id": "012",
+      "nombre": "Neszu Straps",
+      "marca": "NESZU",
+      "precio": 11300,
+      "precioAnterior": null,
+      "categorias": [
+        "accesorios",
+        "straps"
+      ],
+      "descripcion": "Los straps que te dan ese apretón extra cuando el antebrazo ya cedió pero la espalda puede más. Diseñados para no resbalar aunque tengas las manos empapadas. El accesorio que separa un buen jalón de uno extraordinario.",
+      "caracteristicas": [
+        "Material resistente de alta durabilidad",
+        "Mejora el agarre en jalones, remos y peso muerto",
+        "Permite levantar más peso sin que falle el antebrazo",
+        "Diseño ajustable para cualquier tamaño de muñeca",
+        "Talla única — se adapta a la mayoría"
+      ],
+      "modoDeUso": "Enrollar el extremo largo del strap alrededor de la barra, asegurando con el agarre. Usar en ejercicios de tracción pesada como peso muerto, remo y dominadas.",
+      "emoji": "🏋️",
+      "imagen": "",
+      "imagenNutricional": "",
+      "sabores": [
+        {
+          "nombre": "Talla única ⚫",
+          "imagen": ""
+        }
+      ],
+      "tamanios": [
+        {
+          "nombre": "1 par (talla única)",
+          "imagen": "",
+          "sabores": []
+        }
+      ],
+      "badge": "oferta",
+      "destacado": false,
+      "disponible": true
+    },
+    {
+      "id": "013",
+      "nombre": "Easyfit Straps",
+      "marca": "EASYFIT",
+      "precio": 7500,
+      "precioAnterior": null,
+      "categorias": [
+        "accesorios",
+        "straps"
+      ],
+      "descripcion": "Straps funcionales que hacen exactamente lo que prometen: no te sueltan el peso cuando más lo necesitás. Para los que quieren mejorar el agarre sin gastar de más — duraderos, resistentes y al mejor precio del mercado.",
+      "caracteristicas": [
+        "Diseño simple y efectivo",
+        "Mejora el agarre en ejercicios de tracción",
+        "Material resistente para uso frecuente",
+        "Excelente relación calidad-precio",
+        "Talla única ajustable"
+      ],
+      "modoDeUso": "Enrollar alrededor de la barra y ajustar a la muñeca. Ideal para peso muerto, remos, jalones al pecho y dominadas con peso.",
+      "emoji": "🏋️",
+      "imagen": "",
+      "imagenNutricional": "",
+      "sabores": [
+        {
+          "nombre": "Talla única ⚫",
+          "imagen": ""
+        }
+      ],
+      "tamanios": [
+        {
+          "nombre": "1 par (talla única)",
+          "imagen": "",
+          "sabores": []
+        }
+      ],
+      "badge": "oferta",
+      "destacado": false,
+      "disponible": true
+    },
+    {
+      "id": "014",
+      "nombre": "Easyfit Straps Negro con Muñequeras",
+      "marca": "EASYFIT",
+      "precio": 11000,
+      "precioAnterior": null,
+      "categorias": [
+        "accesorios",
+        "straps"
+      ],
+      "descripcion": "Combo completo: straps para el agarre más soporte para la muñeca en un solo kit. Protegé dos puntos críticos del tren superior al mismo tiempo. Para los que van en serio y no quieren una lesión que los deje fuera del gym.",
+      "caracteristicas": [
+        "Incluye straps + muñequeras en un solo combo",
+        "Doble protección: agarre y estabilidad de muñeca",
+        "Color negro — combina con cualquier outfit",
+        "Material reforzado para entrenamientos pesados",
+        "Ideal para rutinas de espalda y hombros"
+      ],
+      "modoDeUso": "Colocar las muñequeras antes de los straps para mayor soporte. Usar straps en ejercicios de tracción y muñequeras en presses y trabajos de empuje.",
+      "emoji": "🏋️",
+      "imagen": "",
+      "imagenNutricional": "",
+      "sabores": [
+        {
+          "nombre": "Talla única ⚫",
+          "imagen": ""
+        }
+      ],
+      "tamanios": [
+        {
+          "nombre": "1 set (talla única)",
+          "imagen": "",
+          "sabores": []
+        }
+      ],
+      "badge": "oferta",
+      "destacado": false,
+      "disponible": true
+    },
+    {
+      "id": "015",
+      "nombre": "Easyfit Straps con Antideslizante",
+      "marca": "EASYFIT",
+      "precio": 11000,
+      "precioAnterior": null,
+      "categorias": [
+        "accesorios",
+        "straps"
+      ],
+      "descripcion": "La versión mejorada de los straps clásicos — superficie antideslizante que no suelta la barra aunque estés empapado en sudor. Un solo detalle que cambia toda la sesión de espalda. Para quienes ya probaron los básicos y quieren más.",
+      "caracteristicas": [
+        "Superficie antideslizante de alto agarre",
+        "No falla aunque las manos estén sudadas",
+        "Material duradero para entrenamiento intenso",
+        "Mejora notablemente la sujeción en peso muerto",
+        "Talla única ajustable"
+      ],
+      "modoDeUso": "Enrollar firmemente alrededor de la barra dejando la superficie antideslizante en contacto con el metal. Ajustar a la muñeca y asegurar antes de levantar.",
+      "emoji": "🏋️",
+      "imagen": "",
+      "imagenNutricional": "",
+      "sabores": [
+        {
+          "nombre": "Talla única ⚫",
+          "imagen": ""
+        }
+      ],
+      "tamanios": [
+        {
+          "nombre": "1 par (talla única)",
+          "imagen": "",
+          "sabores": []
+        }
+      ],
+      "badge": "oferta",
+      "destacado": false,
+      "disponible": true
+    },
+    {
+      "id": "016",
+      "nombre": "Nutrabio Omega 3 150 cápsulas",
+      "marca": "NUTRABIO",
+      "precio": 12300,
+      "precioAnterior": null,
+      "categorias": [
+        "suplementos",
+        "omega3"
+      ],
+      "descripcion": "El Omega 3 ultra concentrado que realmente dice cuánto EPA y DHA tiene — sin números escondidos. NutraBio no miente en las etiquetas. Para inflamación, corazón, cerebro y recuperación muscular. Pequeña inversión con beneficio a largo plazo.",
+      "caracteristicas": [
+        "Alta concentración de EPA y DHA por cápsula",
+        "Etiqueta transparente con dosis exactas",
+        "Reduce inflamación articular y muscular",
+        "Apoya salud cardiovascular y cognitiva",
+        "150 cápsulas — 75 servicios (2 cápsulas/día)"
+      ],
+      "modoDeUso": "Tomar 2 cápsulas al día con alimentos para mejor absorción y para evitar el regusto a pescado.",
+      "emoji": "🐟",
+      "imagen": "",
+      "imagenNutricional": "",
+      "sabores": [
+        {
+          "nombre": "Cápsulas 💊",
+          "imagen": ""
+        }
+      ],
+      "tamanios": [
+        {
+          "nombre": "75 servidas (150 caps)",
+          "imagen": "",
+          "sabores": []
+        }
+      ],
+      "badge": "oferta",
+      "destacado": false,
+      "disponible": true
+    },
+    {
+      "id": "017",
+      "nombre": "Nutrabio Omega 3 400 cápsulas",
+      "marca": "NUTRABIO",
+      "precio": 21000,
+      "precioAnterior": null,
+      "categorias": [
+        "suplementos",
+        "omega3"
+      ],
+      "descripcion": "El frasco grande para los que ya saben que el Omega 3 es diario, no opcional. Con 200 servicios cubrís más de 6 meses de suplementación. Economizás más, tu cuerpo te lo agradece con menos inflamación y mejor recuperación.",
+      "caracteristicas": [
+        "Misma concentración premium de EPA y DHA",
+        "200 servicios — más de 6 meses de suministro",
+        "Mejor costo por servicio que el frasco chico",
+        "Reduce inflamación y apoya salud cardiovascular",
+        "Ideal para suplementación a largo plazo"
+      ],
+      "modoDeUso": "Tomar 2 cápsulas al día con alimentos. Mantener refrigerado después de abierto para preservar frescura.",
+      "emoji": "🐟",
+      "imagen": "",
+      "imagenNutricional": "",
+      "sabores": [
+        {
+          "nombre": "Cápsulas 💊",
+          "imagen": ""
+        }
+      ],
+      "tamanios": [
+        {
+          "nombre": "200 servidas (400 caps)",
+          "imagen": "",
+          "sabores": []
+        }
+      ],
+      "badge": null,
+      "destacado": false,
+      "disponible": true
+    },
+    {
+      "id": "018",
+      "nombre": "The Gummies Omega 3 Naranja",
+      "marca": "THE GUMMIES",
+      "precio": 14900,
+      "precioAnterior": null,
+      "categorias": [
+        "suplementos",
+        "omega3"
+      ],
+      "descripcion": "Omega 3 en formato gummies que realmente sabe a naranja — no a aceite de pescado. Para los que siempre olvidaron tomar cápsulas o simplemente odian tragarlas. La versión deliciosa del suplemento más importante que podés tomar.",
+      "caracteristicas": [
+        "Formato gummy — fácil y agradable de tomar",
+        "Sabor naranja natural, sin regusto a pescado",
+        "Aporta EPA y DHA para corazón y cerebro",
+        "Ideal para quienes no toleran cápsulas grandes",
+        "60 gummies — 30 a 60 servicios"
+      ],
+      "modoDeUso": "Masticar 1-2 gummies al día, preferiblemente con una comida. Mantener fuera del alcance de niños por su sabor agradable.",
+      "emoji": "🐟",
+      "imagen": "",
+      "imagenNutricional": "",
+      "sabores": [
+        {
+          "nombre": "Naranja 🍊",
+          "imagen": ""
+        }
+      ],
+      "tamanios": [
+        {
+          "nombre": "30-60 servidas (60 gummies)",
+          "imagen": "",
+          "sabores": []
+        }
+      ],
+      "badge": "oferta",
+      "destacado": false,
+      "disponible": true
+    },
+    {
+      "id": "019",
+      "nombre": "LAB El Maná Omega 3 60 cápsulas",
+      "marca": "LAB MANA",
+      "precio": null,
+      "precioAnterior": null,
+      "categorias": [
+        "suplementos",
+        "omega3"
+      ],
+      "descripcion": "Omega 3 de origen nacional con estándares internacionales. LAB El Maná ofrece concentración honesta a precio competitivo — sin excusas para no cuidar tus articulaciones, corazón y sistema nervioso.",
+      "caracteristicas": [
+        "EPA y DHA en concentración efectiva",
+        "Producción nacional con control de calidad",
+        "Apoya salud articular y cardiovascular",
+        "Precio accesible para suplementación constante",
+        "60 cápsulas — 2 meses de suministro"
+      ],
+      "modoDeUso": "Tomar 1 cápsula al día con alimentos. Para mayor beneficio antiinflamatorio, aumentar a 2 cápsulas diarias.",
+      "emoji": "🐟",
+      "imagen": "",
+      "imagenNutricional": "",
+      "sabores": [
+        {
+          "nombre": "Cápsulas 💊",
+          "imagen": ""
+        }
+      ],
+      "tamanios": [
+        {
+          "nombre": "60 servidas (60 caps)",
+          "imagen": "",
+          "sabores": []
+        }
+      ],
+      "badge": null,
+      "destacado": false,
+      "disponible": true
+    },
+    {
+      "id": "020",
+      "nombre": "LAB El Maná Omega 3 80 cápsulas",
+      "marca": "LAB MANA",
+      "precio": null,
+      "precioAnterior": null,
+      "categorias": [
+        "suplementos",
+        "omega3"
+      ],
+      "descripcion": "Más servicios, mismo compromiso de calidad. LAB El Maná omega 3 en presentación grande para quienes ya hicieron del Omega 3 un hábito diario. Articulaciones, corazón y recuperación — todo en una cápsula.",
+      "caracteristicas": [
+        "EPA y DHA en concentración efectiva",
+        "80 cápsulas — mejor costo por servicio",
+        "Apoya articulaciones, corazón y recuperación",
+        "Producción nacional con buenos estándares",
+        "Ideal para suplementación constante mensual"
+      ],
+      "modoDeUso": "Tomar 1-2 cápsulas al día con alimentos, según necesidad antiinflamatoria.",
+      "emoji": "🐟",
+      "imagen": "",
+      "imagenNutricional": "",
+      "sabores": [
+        {
+          "nombre": "Cápsulas 💊",
+          "imagen": ""
+        }
+      ],
+      "tamanios": [
+        {
+          "nombre": "80 servidas (80 caps)",
+          "imagen": "",
+          "sabores": []
+        }
+      ],
+      "badge": null,
+      "destacado": false,
+      "disponible": true
+    },
+    {
+      "id": "021",
+      "nombre": "Nutrex EAA",
+      "marca": "NUTREX",
+      "precio": null,
+      "precioAnterior": null,
+      "categorias": [
+        "aminoacidos",
+        "eaas"
+      ],
+      "descripcion": "Los 9 aminoácidos esenciales que el músculo necesita para crecer y que el cuerpo no puede fabricar solo. NUTREX EAA: el complemento perfecto cuando no alcanzás tu proteína diaria o querés acelerar la recuperación entre sesiones.",
+      "caracteristicas": [
+        "Los 9 aminoácidos esenciales (EAA completos)",
+        "Acelera la síntesis de proteína muscular",
+        "Mejora la recuperación entre entrenamientos",
+        "Reduce el catabolismo muscular",
+        "Excelente para tomar intra-entrenamiento"
+      ],
+      "modoDeUso": "Mezclar 1 scoop en 350-500ml de agua. Tomar antes, durante o después del entrenamiento, o entre comidas para complementar tu ingesta proteica.",
+      "emoji": "💊",
+      "imagen": "",
+      "imagenNutricional": "",
+      "sabores": [
+        {
+          "nombre": "Fruit Punch 🍉",
+          "imagen": ""
+        },
+        {
+          "nombre": "Blue Raspberry 🫐",
+          "imagen": ""
+        },
+        {
+          "nombre": "Watermelon 🍉",
+          "imagen": ""
+        }
+      ],
+      "tamanios": [],
+      "badge": null,
+      "destacado": false,
+      "disponible": true
+    },
+    {
+      "id": "022",
+      "nombre": "REDCON1 BCAA",
+      "marca": "REDCON1",
+      "precio": null,
+      "precioAnterior": null,
+      "categorias": [
+        "aminoacidos",
+        "bcaas"
+      ],
+      "descripcion": "Recuperación muscular desde adentro. Los BCAAs de REDCON1 reducen el daño muscular durante y después del entrenamiento — menos dolor, más frecuencia de entrenamiento. Ideal para quien entrena más de 4 días por semana.",
+      "caracteristicas": [
+        "Ratio óptimo de Leucina, Isoleucina y Valina (2:1:1)",
+        "Reduce el dolor muscular post-entrenamiento (DOMS)",
+        "Apoya la recuperación entre sesiones intensas",
+        "Ayuda a preservar masa muscular en déficit calórico",
+        "Sabores diseñados para tomar durante el entreno"
+      ],
+      "modoDeUso": "Mezclar 1 scoop en 300-400ml de agua. Consumir antes o durante el entrenamiento para reducir la fatiga muscular.",
+      "emoji": "💊",
+      "imagen": "",
+      "imagenNutricional": "",
+      "sabores": [
+        {
+          "nombre": "Watermelon 🍉",
+          "imagen": ""
+        },
+        {
+          "nombre": "Blue Razz 🫐",
+          "imagen": ""
+        },
+        {
+          "nombre": "Lemonade 🍋",
+          "imagen": ""
+        }
+      ],
+      "tamanios": [],
+      "badge": null,
+      "destacado": false,
+      "disponible": true
+    },
+    {
+      "id": "023",
+      "nombre": "Intrablasy EAA + BCAA",
+      "marca": "ENHANCED",
+      "precio": null,
+      "precioAnterior": null,
+      "categorias": [
+        "aminoacidos",
+        "eaas"
+      ],
+      "descripcion": "La fórmula completa: EAAs + BCAAs juntos para máxima síntesis proteica y recuperación. No necesitás elegir entre uno u otro cuando tenés los dos en un solo producto. Para quien quiere todo sin complicaciones.",
+      "caracteristicas": [
+        "Combina EAA completos + BCAA en proporción óptima",
+        "Máxima síntesis de proteína muscular",
+        "Acelera recuperación y reduce fatiga",
+        "Ideal para entrenamientos intensos o en ayunas",
+        "Una sola fórmula, doble beneficio"
+      ],
+      "modoDeUso": "Mezclar 1 scoop en 400-500ml de agua fría. Tomar durante el entrenamiento o entre comidas para mantener el cuerpo en estado anabólico.",
+      "emoji": "💊",
+      "imagen": "",
+      "imagenNutricional": "",
+      "sabores": [
+        {
+          "nombre": "Sandía 🍉",
+          "imagen": ""
+        },
+        {
+          "nombre": "Mora Azul 🫐",
+          "imagen": ""
+        },
+        {
+          "nombre": "Limón 🍋",
+          "imagen": ""
+        }
+      ],
+      "tamanios": [],
+      "badge": null,
+      "destacado": false,
+      "disponible": true
+    },
+    {
+      "id": "024",
+      "nombre": "Landerfit Amino Revolution + Electrolitos",
+      "marca": "LANDERFIT",
+      "precio": null,
+      "precioAnterior": null,
+      "categorias": [
+        "aminoacidos",
+        "eaas"
+      ],
+      "descripcion": "Aminoácidos más electrolitos — la combinación exacta que tu cuerpo pide durante entrenamientos intensos. Rehidratate y recuperate al mismo tiempo. LANDERFIT entendió que el músculo no es lo único que pierde el atleta en el gym.",
+      "caracteristicas": [
+        "Aminoácidos esenciales + electrolitos en una fórmula",
+        "Rehidratación y recuperación muscular simultánea",
+        "Ideal para entrenamientos largos o climas calurosos",
+        "Repone sodio, potasio y magnesio perdidos en el sudor",
+        "Sabores refrescantes tipo bebida deportiva"
+      ],
+      "modoDeUso": "Mezclar 1 scoop en 500ml de agua fría. Consumir durante el entrenamiento, especialmente en sesiones de más de 1 hora o con sudoración intensa.",
+      "emoji": "💊",
+      "imagen": "",
+      "imagenNutricional": "",
+      "sabores": [
+        {
+          "nombre": "Sandía 🍉",
+          "imagen": ""
+        },
+        {
+          "nombre": "Mango 🥭",
+          "imagen": ""
+        },
+        {
+          "nombre": "Uva 🍇",
+          "imagen": ""
+        }
+      ],
+      "tamanios": [],
+      "badge": null,
+      "destacado": false,
+      "disponible": true
+    },
+    {
+      "id": "025",
+      "nombre": "Nutrex Whey Protein 5LB",
+      "marca": "NUTREX",
+      "precio": null,
+      "precioAnterior": null,
+      "categorias": [
+        "proteinas",
+        "whey"
+      ],
+      "descripcion": "La proteína que llevas tiempo viendo en el gym de los que tienen buenos resultados. 5 libras de whey con excelente perfil de aminoácidos y sabores que no cansan. Calidad comprobada sin el precio de una marca premium.",
+      "caracteristicas": [
+        "~24g de proteína por servicio",
+        "Mezcla de whey concentrado de alta calidad",
+        "64 servicios — más de 2 meses de suministro",
+        "Sabores intensos que no empalagan",
+        "Excelente relación calidad-precio"
+      ],
+      "modoDeUso": "Mezclar 1 scoop (aprox. 30g) en 250-300ml de agua o leche. Tomar después del entrenamiento o como snack proteico entre comidas.",
+      "emoji": "💪",
+      "imagen": "",
+      "imagenNutricional": "",
+      "sabores": [
+        {
+          "nombre": "Chocolate 🍫",
+          "imagen": ""
+        },
+        {
+          "nombre": "Vainilla 🍦",
+          "imagen": ""
+        },
+        {
+          "nombre": "Cookies & Cream 🍪",
+          "imagen": ""
+        }
+      ],
+      "tamanios": [
+        {
+          "nombre": "64 servidas (5lb)",
+          "imagen": "",
+          "sabores": []
+        }
+      ],
+      "badge": null,
+      "destacado": false,
+      "disponible": true
+    },
+    {
+      "id": "026",
+      "nombre": "Raze Whey Protein 5LB",
+      "marca": "RAZE",
+      "precio": null,
+      "precioAnterior": null,
+      "categorias": [
+        "proteinas",
+        "whey"
+      ],
+      "descripcion": "RAZE llegó al mundo de los suplementos con la misma mentalidad disruptiva con la que hizo sus energéticas: calidad sin cobrar de más. Su whey es exactamente eso — perfil limpio, buen sabor, resultado real. La proteína para los que saben leer etiquetas.",
+      "caracteristicas": [
+        "Proteína whey de calidad con perfil limpio",
+        "68 servicios — gran rendimiento por libra",
+        "Sabores frescos y poco comunes en el mercado",
+        "Buena fuente de aminoácidos para recuperación",
+        "Excelente relación calidad-precio"
+      ],
+      "modoDeUso": "Mezclar 1 scoop en 250-300ml de agua o leche fría. Consumir post-entrenamiento o como complemento proteico diario.",
+      "emoji": "💪",
+      "imagen": "",
+      "imagenNutricional": "",
+      "sabores": [
+        {
+          "nombre": "Chocolate 🍫",
+          "imagen": ""
+        },
+        {
+          "nombre": "Frosted Cereal 🥣",
+          "imagen": ""
+        },
+        {
+          "nombre": "Fruity Cereal 🌈",
+          "imagen": ""
+        }
+      ],
+      "tamanios": [
+        {
+          "nombre": "68 servidas (5lb)",
+          "imagen": "",
+          "sabores": []
+        }
+      ],
+      "badge": null,
+      "destacado": false,
+      "disponible": true
+    },
+    {
+      "id": "027",
+      "nombre": "Muscletech Nitro Tech 5LB",
+      "marca": "MUSCLETECH",
+      "precio": null,
+      "precioAnterior": null,
+      "categorias": [
+        "proteinas",
+        "whey"
+      ],
+      "descripcion": "La versión grande de uno de los más vendidos del mundo. 70 servicios de proteína con creatina incluida para quienes se toman en serio el gimnasio. Con décadas de respaldo científico — no es popular por accidente.",
+      "caracteristicas": [
+        "30g de proteína + 3g de creatina por servicio",
+        "70 servicios — más de 2 meses de uso",
+        "Fórmula clínicamente probada y mejorada",
+        "Rápida absorción ideal post-entrenamiento",
+        "Uno de los productos más vendidos a nivel mundial"
+      ],
+      "modoDeUso": "Mezclar 1 scoop en 180-240ml de agua o leche. Tomar 1-2 veces al día, idealmente uno de ellos después de entrenar.",
+      "emoji": "💪",
+      "imagen": "",
+      "imagenNutricional": "",
+      "sabores": [
+        {
+          "nombre": "Chocolate Supremo 🍫",
+          "imagen": ""
+        },
+        {
+          "nombre": "Vainilla 🍦",
+          "imagen": ""
+        },
+        {
+          "nombre": "Fresa 🍓",
+          "imagen": ""
+        },
+        {
+          "nombre": "Cookies & Cream 🍪",
+          "imagen": ""
+        }
+      ],
+      "tamanios": [
+        {
+          "nombre": "70 servidas (5lb)",
+          "imagen": "",
+          "sabores": []
+        }
+      ],
+      "badge": null,
+      "destacado": false,
+      "disponible": true
+    },
+    {
+      "id": "028",
+      "nombre": "Dymatize ISO 100 5LB",
+      "marca": "DYMATIZE",
+      "precio": 51000,
+      "precioAnterior": null,
+      "categorias": [
+        "proteinas",
+        "isoladas"
+      ],
+      "descripcion": "Considerada una de las mejores proteínas isoladas del mundo — y no es coincidencia. Proceso de hidrólisis parcial, digestión ultrarrápida y sabores que ganaron premios. El estándar de referencia con el que se comparan todas las demás isoladas.",
+      "caracteristicas": [
+        "25g de proteína isolada hidrolizada por servicio",
+        "0g de azúcar, bajo en grasas y carbohidratos",
+        "Digestión y absorción ultrarrápida",
+        "Libre de gluten",
+        "76 servicios — más de 2 meses de suministro"
+      ],
+      "modoDeUso": "Mezclar 1 scoop en 180-250ml de agua fría. Tomar inmediatamente después del entrenamiento para máxima absorción, o en cualquier momento que necesites proteína de rápida digestión.",
+      "emoji": "🥛",
+      "imagen": "",
+      "imagenNutricional": "",
+      "sabores": [
+        {
+          "nombre": "Fudge Brownie 🍫",
+          "imagen": ""
+        },
+        {
+          "nombre": "Gourmet Vanilla 🍦",
+          "imagen": ""
+        },
+        {
+          "nombre": "Birthday Cake 🎂",
+          "imagen": ""
+        },
+        {
+          "nombre": "Fruity Pebbles 🌈",
+          "imagen": ""
+        }
+      ],
+      "tamanios": [
+        {
+          "nombre": "76 servidas (5lb)",
+          "imagen": "",
+          "sabores": []
+        }
+      ],
+      "badge": null,
+      "destacado": false,
+      "disponible": true
+    },
+    {
+      "id": "029",
+      "nombre": "Dymatize ISO 100 3LB",
+      "marca": "DYMATIZE",
+      "precio": 40000,
+      "precioAnterior": null,
+      "categorias": [
+        "proteinas",
+        "isoladas"
+      ],
+      "descripcion": "El tamaño perfecto para probar la isolada mejor calificada del mercado o para quien no quiere comprometerse con 5 libras de golpe. Misma pureza, misma calidad, misma digestión ultrarrápida en presentación más manejable.",
+      "caracteristicas": [
+        "25g de proteína isolada hidrolizada por servicio",
+        "0g de azúcar, digestión ultrarrápida",
+        "42 servicios — más de un mes de uso diario",
+        "Libre de gluten y bajo en lactosa",
+        "Presentación intermedia ideal para probar sabores"
+      ],
+      "modoDeUso": "Mezclar 1 scoop en 180-250ml de agua fría, idealmente inmediatamente después de entrenar.",
+      "emoji": "🥛",
+      "imagen": "",
+      "imagenNutricional": "",
+      "sabores": [
+        {
+          "nombre": "Fudge Brownie 🍫",
+          "imagen": ""
+        },
+        {
+          "nombre": "Gourmet Vanilla 🍦",
+          "imagen": ""
+        },
+        {
+          "nombre": "Birthday Cake 🎂",
+          "imagen": ""
+        }
+      ],
+      "tamanios": [
+        {
+          "nombre": "42 servidas (3lb)",
+          "imagen": "",
+          "sabores": []
+        }
+      ],
+      "badge": null,
+      "destacado": false,
+      "disponible": true
+    },
+    {
+      "id": "030",
+      "nombre": "Dymatize ISO 100 1.3LB",
+      "marca": "DYMATIZE",
+      "precio": 29000,
+      "precioAnterior": null,
+      "categorias": [
+        "proteinas",
+        "isoladas"
+      ],
+      "descripcion": "El tamaño starter de la isolada más reconocida del mundo. Para probar sabores, para viajes o para complementar sin cargar un frasco enorme. Si no la has probado, empezá por aquí — después no vas a querer otra.",
+      "caracteristicas": [
+        "25g de proteína isolada hidrolizada por servicio",
+        "20 servicios — perfecto para probar o viajar",
+        "Digestión ultrarrápida, 0g azúcar",
+        "Tamaño compacto, fácil de transportar",
+        "La forma ideal de conocer ISO 100 sin gran inversión"
+      ],
+      "modoDeUso": "Mezclar 1 scoop en 180-250ml de agua fría. Ideal para llevar al gym en bolso o maleta de viaje.",
+      "emoji": "🥛",
+      "imagen": "",
+      "imagenNutricional": "",
+      "sabores": [
+        {
+          "nombre": "Fudge Brownie 🍫",
+          "imagen": ""
+        },
+        {
+          "nombre": "Gourmet Vanilla 🍦",
+          "imagen": ""
+        }
+      ],
+      "tamanios": [
+        {
+          "nombre": "20 servidas (1.3lb)",
+          "imagen": "",
+          "sabores": []
+        }
+      ],
+      "badge": null,
+      "destacado": false,
+      "disponible": true
+    },
+    {
+      "id": "031",
+      "nombre": "REDCON1 Proteína Isotope 5LB",
+      "marca": "REDCON1",
+      "precio": null,
+      "precioAnterior": null,
+      "categorias": [
+        "proteinas",
+        "isoladas"
+      ],
+      "descripcion": "REDCON1 diseñó Isotope para competidores: isolada ultra filtrada, 25g por scoop, 0 azúcar, 0 grasa. Sin concesiones para quienes están en prep o simplemente no aceptan otra cosa que lo mejor. La proteína de los que van en serio.",
+      "caracteristicas": [
+        "25g de proteína isolada ultra filtrada por servicio",
+        "0g de azúcar y 0g de grasa",
+        "Mezcla rápida sin grumos",
+        "Ideal para etapas de definición/cutting",
+        "5 libras — más de 2 meses de suministro"
+      ],
+      "modoDeUso": "Mezclar 1 scoop en 180-250ml de agua fría. Consumir post-entrenamiento o en cualquier momento que necesites proteína magra de rápida absorción.",
+      "emoji": "🥛",
+      "imagen": "",
+      "imagenNutricional": "",
+      "sabores": [
+        {
+          "nombre": "Chocolate 🍫",
+          "imagen": ""
+        },
+        {
+          "nombre": "Vainilla 🍦",
+          "imagen": ""
+        },
+        {
+          "nombre": "Frutas del Bosque 🫐",
+          "imagen": ""
+        }
+      ],
+      "tamanios": [
+        {
+          "nombre": "5lb",
+          "imagen": "",
+          "sabores": []
+        }
+      ],
+      "badge": null,
+      "destacado": false,
+      "disponible": true
+    },
+    {
+      "id": "032",
+      "nombre": "Ghost Clear Whey Isolate 1LB",
+      "marca": "GHOST",
+      "precio": null,
+      "precioAnterior": null,
+      "categorias": [
+        "proteinas",
+        "isoladas"
+      ],
+      "descripcion": "La proteína que parece jugo de frutas. Ghost Clear Whey se mezcla completamente transparente, sin esa textura lechosa de las proteínas tradicionales. Perfecta para quien quiere proteína de calidad sin sentir que está tomando proteína.",
+      "caracteristicas": [
+        "Textura clara, similar a una bebida de frutas",
+        "Sin sabor lechoso ni pesadez en el estómago",
+        "20g de proteína isolada por servicio",
+        "Refrescante — ideal para climas calurosos",
+        "Formato innovador dentro de la categoría isolada"
+      ],
+      "modoDeUso": "Mezclar 1 scoop en agua fría (no leche, para mantener la textura clara). Tomar después del entrenamiento o como bebida proteica refrescante en cualquier momento del día.",
+      "emoji": "🥛",
+      "imagen": "",
+      "imagenNutricional": "",
+      "sabores": [
+        {
+          "nombre": "Watermelon 🍉",
+          "imagen": ""
+        },
+        {
+          "nombre": "Tropical Citrus 🍊",
+          "imagen": ""
+        }
+      ],
+      "tamanios": [
+        {
+          "nombre": "1lb",
+          "imagen": "",
+          "sabores": []
+        }
+      ],
+      "badge": null,
+      "destacado": false,
+      "disponible": true
+    },
+    {
+      "id": "033",
+      "nombre": "Nutrex Proteína Isofit 5LB",
+      "marca": "NUTREX",
+      "precio": null,
+      "precioAnterior": null,
+      "categorias": [
+        "proteinas",
+        "isoladas"
+      ],
+      "descripcion": "La isolada de NUTREX para quien ya probó las whey y quiere subir de nivel. Sin lactosa, sin gluten, digestión ultrarrápida y el sabor característico de NUTREX que no decepciona. Ideal para definición y para quienes son intolerantes a la lactosa.",
+      "caracteristicas": [
+        "Proteína isolada de rápida digestión",
+        "Bajo en lactosa y libre de gluten",
+        "Ideal para definición muscular",
+        "Buen perfil de aminoácidos para recuperación",
+        "5 libras — gran rendimiento por presentación"
+      ],
+      "modoDeUso": "Mezclar 1 scoop en 200-250ml de agua fría. Consumir preferentemente post-entrenamiento o entre comidas en etapa de definición.",
+      "emoji": "🥛",
+      "imagen": "",
+      "imagenNutricional": "",
+      "sabores": [
+        {
+          "nombre": "Chocolate 🍫",
+          "imagen": ""
+        },
+        {
+          "nombre": "Vainilla 🍦",
+          "imagen": ""
+        },
+        {
+          "nombre": "Fresa 🍓",
+          "imagen": ""
+        }
+      ],
+      "tamanios": [
+        {
+          "nombre": "5lb",
+          "imagen": "",
+          "sabores": []
+        }
+      ],
+      "badge": null,
+      "destacado": false,
+      "disponible": true
+    },
+    {
+      "id": "034",
+      "nombre": "RAW CBUM Proteína Itholate 2LB",
+      "marca": "RAW",
+      "precio": null,
+      "precioAnterior": null,
+      "categorias": [
+        "proteinas",
+        "isoladas"
+      ],
+      "descripcion": "La proteína de Chris Bumstead — el mejor fisiculturista del mundo. RAW x CBUM Itholate es exactamente lo que usaría alguien que vive de su físico: puro, efectivo, sin rellenos. Para los que siguen al campeón y quieren rendir como uno.",
+      "caracteristicas": [
+        "Proteína isolada premium respaldada por Chris Bumstead",
+        "Fórmula limpia sin rellenos innecesarios",
+        "Excelente perfil de aminoácidos para definición",
+        "Sabores premium de alta calidad",
+        "2 libras — presentación práctica"
+      ],
+      "modoDeUso": "Mezclar 1 scoop en 200-250ml de agua fría o leche. Ideal post-entrenamiento para recuperación rápida y limpia.",
+      "emoji": "🥛",
+      "imagen": "",
+      "imagenNutricional": "",
+      "sabores": [
+        {
+          "nombre": "Chocolate Peanut Butter 🥜",
+          "imagen": ""
+        },
+        {
+          "nombre": "Cinnamon Cereal 🥣",
+          "imagen": ""
+        }
+      ],
+      "tamanios": [
+        {
+          "nombre": "2lb",
+          "imagen": "",
+          "sabores": []
+        }
+      ],
+      "badge": null,
+      "destacado": false,
+      "disponible": true
+    },
+    {
+      "id": "035",
+      "nombre": "RAW Proteína ISO 2LB",
+      "marca": "RAW",
+      "precio": null,
+      "precioAnterior": null,
+      "categorias": [
+        "proteinas",
+        "isoladas"
+      ],
+      "descripcion": "RAW Nutrition nació con una premisa simple: ingredientes de calidad, sin rellenos, sin propietarios. Su isolada lo cumple al pie de la letra. Para quien quiere saber exactamente qué está poniendo en su cuerpo — sin letras pequeñas.",
+      "caracteristicas": [
+        "Proteína isolada con etiqueta 100% transparente",
+        "Sin ingredientes propietarios ni rellenos ocultos",
+        "Digestión rápida y perfil limpio",
+        "Ideal para definición y mantenimiento",
+        "2 libras — tamaño práctico para probar"
+      ],
+      "modoDeUso": "Mezclar 1 scoop en 200-250ml de agua fría. Tomar post-entrenamiento o como snack proteico bajo en calorías.",
+      "emoji": "🥛",
+      "imagen": "",
+      "imagenNutricional": "",
+      "sabores": [
+        {
+          "nombre": "Vanilla Ice Cream 🍦",
+          "imagen": ""
+        },
+        {
+          "nombre": "Chocolate Fudge 🍫",
+          "imagen": ""
+        }
+      ],
+      "tamanios": [
+        {
+          "nombre": "2lb",
+          "imagen": "",
+          "sabores": []
+        }
+      ],
+      "badge": null,
+      "destacado": false,
+      "disponible": true
+    },
+    {
+      "id": "036",
+      "nombre": "REDCON1 MRE Proteína de Base Animal",
+      "marca": "REDCON1",
+      "precio": null,
+      "precioAnterior": null,
+      "categorias": [
+        "proteinas",
+        "carnivoras"
+      ],
+      "descripcion": "Proteína completa hecha de carne real: res, salmón, pollo y huevo. Para quienes les cae mal la whey o simplemente quieren una fuente proteica diferente y más completa. MRE fue el pionero en proteínas de comida real y sigue siendo el referente.",
+      "caracteristicas": [
+        "Proteína de fuentes animales reales (res, pollo, salmón, huevo)",
+        "Alternativa ideal para intolerantes a la whey",
+        "Perfil de aminoácidos completo tipo \"comida real\"",
+        "Incluye carbohidratos para energía sostenida",
+        "25 servicios por envase"
+      ],
+      "modoDeUso": "Mezclar 1 scoop en 240-300ml de agua. Tomar como comida de reemplazo entre comidas principales o post-entrenamiento.",
+      "emoji": "🥩",
+      "imagen": "",
+      "imagenNutricional": "",
+      "sabores": [
+        {
+          "nombre": "Chocolate Peanut Butter 🥜",
+          "imagen": ""
+        },
+        {
+          "nombre": "Fruity Cereal 🌈",
+          "imagen": ""
+        },
+        {
+          "nombre": "Banana Cinnamon Cereal 🍌",
+          "imagen": ""
+        }
+      ],
+      "tamanios": [
+        {
+          "nombre": "25 servidas",
+          "imagen": "",
+          "sabores": []
+        }
+      ],
+      "badge": null,
+      "destacado": false,
+      "disponible": true
+    },
+    {
+      "id": "037",
+      "nombre": "REDCON1 MRE Lite Proteína Base Animal",
+      "marca": "REDCON1",
+      "precio": null,
+      "precioAnterior": null,
+      "categorias": [
+        "proteinas",
+        "carnivoras"
+      ],
+      "descripcion": "La versión reducida en calorías del MRE original — misma base de proteína animal, menos carbohidratos. Para quienes quieren los beneficios de la proteína real sin las calorías extra. Perfecto para definición con sabores de comida de verdad.",
+      "caracteristicas": [
+        "Proteína de base animal (res, pollo, salmón, huevo)",
+        "Menos calorías y carbohidratos que el MRE original",
+        "Ideal para etapas de definición/cutting",
+        "Perfil de aminoácidos completo",
+        "30 servicios por envase"
+      ],
+      "modoDeUso": "Mezclar 1 scoop en 240-300ml de agua fría. Tomar como snack proteico bajo en calorías o entre comidas durante definición.",
+      "emoji": "🥩",
+      "imagen": "",
+      "imagenNutricional": "",
+      "sabores": [
+        {
+          "nombre": "Chocolate Peanut Butter 🥜",
+          "imagen": ""
+        },
+        {
+          "nombre": "Cinnamon Toast 🍞",
+          "imagen": ""
+        }
+      ],
+      "tamanios": [
+        {
+          "nombre": "30 servidas",
+          "imagen": "",
+          "sabores": []
+        }
+      ],
+      "badge": null,
+      "destacado": false,
+      "disponible": true
+    },
+    {
+      "id": "038",
+      "nombre": "Nutrabio Glutamina 100 servicios",
+      "marca": "NUTRABIO",
+      "precio": 19900,
+      "precioAnterior": null,
+      "categorias": [
+        "suplementos",
+        "glutamina"
+      ],
+      "descripcion": "La glutamina más pura del mercado — NutraBio garantiza el 100% del ingrediente sin rellenos ni propietarios. Acelera la recuperación, fortalece el sistema inmune y reduce el dolor post-entrenamiento. La diferencia entre salir destruido y volver al gym al día siguiente.",
+      "caracteristicas": [
+        "L-Glutamina 100% pura, sin aditivos",
+        "Acelera la recuperación muscular",
+        "Fortalece el sistema inmunológico",
+        "Reduce el dolor muscular post-entrenamiento",
+        "100 servicios — más de 3 meses de uso diario"
+      ],
+      "modoDeUso": "Mezclar 1 scoop (5g) en agua o tu batido de proteína. Tomar después del entrenamiento y/o antes de dormir para maximizar la recuperación nocturna.",
+      "emoji": "💊",
+      "imagen": "",
+      "imagenNutricional": "",
+      "sabores": [
+        {
+          "nombre": "Sin sabor 🥄",
+          "imagen": ""
+        }
+      ],
+      "tamanios": [
+        {
+          "nombre": "100 servidas",
+          "imagen": "",
+          "sabores": []
+        }
+      ],
+      "badge": "oferta",
+      "destacado": false,
+      "disponible": true
+    },
+    {
+      "id": "039",
+      "nombre": "Nutrex Glutamina 60 servicios",
+      "marca": "NUTREX",
+      "precio": null,
+      "precioAnterior": null,
+      "categorias": [
+        "suplementos",
+        "glutamina"
+      ],
+      "descripcion": "NUTREX Glutamina: simple, efectiva y con la transparencia de una marca que sabe lo que vende. Para recuperarte más rápido, proteger el músculo en etapa de definición y mantener el sistema digestivo bajo estrés de entrenamiento.",
+      "caracteristicas": [
+        "L-Glutamina pura sin sabor",
+        "Acelera recuperación entre entrenamientos",
+        "Ayuda a preservar masa muscular en definición",
+        "Apoya la salud intestinal y digestiva",
+        "60 servicios — 2 meses de suministro"
+      ],
+      "modoDeUso": "Mezclar 1 scoop (5g) en agua o batido. Tomar después de entrenar o antes de dormir.",
+      "emoji": "💊",
+      "imagen": "",
+      "imagenNutricional": "",
+      "sabores": [
+        {
+          "nombre": "Sin sabor 🥄",
+          "imagen": ""
+        }
+      ],
+      "tamanios": [
+        {
+          "nombre": "60 servidas",
+          "imagen": "",
+          "sabores": []
+        }
+      ],
+      "badge": null,
+      "destacado": false,
+      "disponible": true
+    },
+    {
+      "id": "040",
+      "nombre": "Nutrex Glutamina 200 servicios",
+      "marca": "NUTREX",
+      "precio": null,
+      "precioAnterior": null,
+      "categorias": [
+        "suplementos",
+        "glutamina"
+      ],
+      "descripcion": "El frasco grande de la glutamina NUTREX para quienes ya la hicieron parte de su rutina diaria. Más servicios, mismo precio justo — recuperación constante durante toda la temporada de entrenamiento sin quedarte sin stock.",
+      "caracteristicas": [
+        "L-Glutamina pura sin sabor",
+        "200 servicios — más de 6 meses de uso",
+        "Mejor costo por gramo que la presentación pequeña",
+        "Acelera recuperación y fortalece inmunidad",
+        "Ideal para suplementación constante a largo plazo"
+      ],
+      "modoDeUso": "Mezclar 1 scoop (5g) en agua, jugo o batido de proteína, después de entrenar o antes de dormir.",
+      "emoji": "💊",
+      "imagen": "",
+      "imagenNutricional": "",
+      "sabores": [
+        {
+          "nombre": "Sin sabor 🥄",
+          "imagen": ""
+        }
+      ],
+      "tamanios": [
+        {
+          "nombre": "200 servidas",
+          "imagen": "",
+          "sabores": []
+        }
+      ],
+      "badge": null,
+      "destacado": false,
+      "disponible": true
+    },
+    {
+      "id": "041",
+      "nombre": "Nutrakey Glutamina 111 servicios",
+      "marca": "NUTRAKEY",
+      "precio": 32000,
+      "precioAnterior": null,
+      "categorias": [
+        "suplementos",
+        "glutamina"
+      ],
+      "descripcion": "La glutamina de NUTRAKEY: pura, sin sabor y se mezcla perfectamente con cualquier batido. 111 servicios de recuperación real a precio competitivo. Para quienes entrenan serio y entienden que el descanso también se suplementa.",
+      "caracteristicas": [
+        "L-Glutamina pura, fácil disolución",
+        "111 servicios — más de 3 meses de uso",
+        "Apoya recuperación muscular y sistema inmune",
+        "Compatible con cualquier stack de suplementos",
+        "Excelente relación cantidad-precio"
+      ],
+      "modoDeUso": "Mezclar 1 scoop (5g) con agua o tu batido post-entrenamiento. También se puede tomar antes de dormir para recuperación nocturna.",
+      "emoji": "💊",
+      "imagen": "",
+      "imagenNutricional": "",
+      "sabores": [
+        {
+          "nombre": "Sin sabor 🥄",
+          "imagen": ""
+        }
+      ],
+      "tamanios": [
+        {
+          "nombre": "111 servidas",
+          "imagen": "",
+          "sabores": []
+        }
+      ],
+      "badge": null,
+      "destacado": false,
+      "disponible": true
+    },
+    {
+      "id": "042",
+      "nombre": "Nutrabio CGT Max 40 servicios",
+      "marca": "NUTRABIO",
+      "precio": 22900,
+      "precioAnterior": null,
+      "categorias": [
+        "suplementos",
+        "glutamina"
+      ],
+      "descripcion": "Creatina + Glutamina + Taurina en una sola fórmula. El post-entreno completo de NutraBio para recuperación máxima sin tomar 3 productos por separado. Para los que quieren resultados reales y simplificar su suplementación.",
+      "caracteristicas": [
+        "Combina Creatina + Glutamina + Taurina",
+        "Recuperación muscular completa en un solo producto",
+        "Simplifica tu rutina de suplementación",
+        "Apoya fuerza, recuperación e hidratación celular",
+        "40 servicios por envase"
+      ],
+      "modoDeUso": "Mezclar 1 scoop en agua o batido post-entrenamiento. Tomar diariamente para maximizar fuerza y recuperación.",
+      "emoji": "🔬",
+      "imagen": "",
+      "imagenNutricional": "",
+      "sabores": [
+        {
+          "nombre": "Sin sabor 🥄",
+          "imagen": ""
+        }
+      ],
+      "tamanios": [
+        {
+          "nombre": "40 servidas",
+          "imagen": "",
+          "sabores": []
+        }
+      ],
+      "badge": null,
+      "destacado": false,
+      "disponible": true
+    },
+    {
+      "id": "043",
+      "nombre": "Total Natural Inositol",
+      "marca": "NATURA 506",
+      "precio": null,
+      "precioAnterior": null,
+      "categorias": [
+        "otros"
+      ],
+      "descripcion": "El suplemento que mejora la sensibilidad a la insulina, apoya el sistema nervioso y ayuda con el balance hormonal — todo desde algo que ya existe en tu cuerpo. Especialmente recomendado para mujeres con SOP y personas bajo alto estrés crónico.",
+      "caracteristicas": [
+        "Mejora la sensibilidad a la insulina",
+        "Apoya el balance hormonal",
+        "Beneficioso para personas con SOP",
+        "Apoya la función del sistema nervioso",
+        "Ayuda a reducir ansiedad relacionada al estrés"
+      ],
+      "modoDeUso": "Tomar según indicación del envase, generalmente 1-2 cápsulas al día con alimentos.",
+      "emoji": "🌿",
+      "imagen": "",
+      "imagenNutricional": "",
+      "sabores": [
+        {
+          "nombre": "Cápsulas 💊",
+          "imagen": ""
+        }
+      ],
+      "tamanios": [],
+      "badge": null,
+      "destacado": false,
+      "disponible": true
+    },
+    {
+      "id": "044",
+      "nombre": "Natura 506 Inositol",
+      "marca": "NATURA 506",
+      "precio": null,
+      "precioAnterior": null,
+      "categorias": [
+        "otros"
+      ],
+      "descripcion": "Inositol de origen nacional con estándares internacionales. NATURA 506 lleva años formulando suplementos para el mercado tico — para apoyar el sistema nervioso, el balance hormonal y la sensibilidad a la insulina. Calidad local que no le pide nada a lo importado.",
+      "caracteristicas": [
+        "Producción nacional con altos estándares",
+        "Apoya balance hormonal y sensibilidad a la insulina",
+        "Beneficios para sistema nervioso y estado de ánimo",
+        "Recomendado para mujeres con SOP",
+        "Precio accesible vs. alternativas importadas"
+      ],
+      "modoDeUso": "Tomar 1-2 cápsulas al día con alimentos, según recomendación del envase.",
+      "emoji": "🌿",
+      "imagen": "",
+      "imagenNutricional": "",
+      "sabores": [
+        {
+          "nombre": "Cápsulas 💊",
+          "imagen": ""
+        }
+      ],
+      "tamanios": [],
+      "badge": null,
+      "destacado": false,
+      "disponible": true
+    },
+    {
+      "id": "045",
+      "nombre": "Tongkat Ali Natura 506",
+      "marca": "NATURA 506",
+      "precio": null,
+      "precioAnterior": null,
+      "categorias": [
+        "otros",
+        "testosterone-boosters"
+      ],
+      "descripcion": "El potenciador de testosterona natural más respaldado por la ciencia — Tongkat Ali ha demostrado en estudios clínicos aumentar testosterona libre, mejorar la libido y reducir el estrés. Extracto estandarizado para garantizar efectividad real, no solo promesas.",
+      "caracteristicas": [
+        "Extracto estandarizado de Tongkat Ali",
+        "Apoya el aumento natural de testosterona libre",
+        "Mejora la libido y energía",
+        "Reduce el cortisol y el estrés",
+        "Respaldado por estudios clínicos"
+      ],
+      "modoDeUso": "Tomar 1 cápsula al día por la mañana con alimentos. Para mejores resultados, usar de forma constante por al menos 4-8 semanas.",
+      "emoji": "🌿",
+      "imagen": "",
+      "imagenNutricional": "",
+      "sabores": [
+        {
+          "nombre": "Cápsulas 💊",
+          "imagen": ""
+        }
+      ],
+      "tamanios": [],
+      "badge": null,
+      "destacado": false,
+      "disponible": true
+    },
+    {
+      "id": "046",
+      "nombre": "Natura 506 Magnesio Glicinato",
+      "marca": "NATURA 506",
+      "precio": null,
+      "precioAnterior": null,
+      "categorias": [
+        "suplementos",
+        "magnesio"
+      ],
+      "descripcion": "El magnesio que realmente absorbe el cuerpo. Bisglicinato es la forma más biodisponible — para relajar músculos, mejorar el sueño profundo y eliminar los calambres nocturnos. Quien empieza a tomarlo pregunta cómo vivió sin él.",
+      "caracteristicas": [
+        "Magnesio en forma de glicinato (alta absorción)",
+        "Relaja músculos y reduce calambres nocturnos",
+        "Mejora la calidad y profundidad del sueño",
+        "Apoya función nerviosa y muscular",
+        "No causa malestar digestivo como otras formas de magnesio"
+      ],
+      "modoDeUso": "Tomar 1-2 cápsulas antes de dormir para favorecer la relajación muscular y un sueño más profundo.",
+      "emoji": "🌿",
+      "imagen": "",
+      "imagenNutricional": "",
+      "sabores": [
+        {
+          "nombre": "Cápsulas 💊",
+          "imagen": ""
+        }
+      ],
+      "tamanios": [],
+      "badge": null,
+      "destacado": false,
+      "disponible": true
+    },
+    {
+      "id": "047",
+      "nombre": "Natura 506 Ashwagandha",
+      "marca": "NATURA 506",
+      "precio": null,
+      "precioAnterior": null,
+      "categorias": [
+        "suplementos",
+        "ashwaganda"
+      ],
+      "descripcion": "Adaptógeno premium para atletas bajo estrés constante. Ashwagandha de NATURA 506 baja el cortisol, mejora la calidad del sueño y el rendimiento en el gym — sin sedación ni efectos secundarios. Usada por siglos, respaldada por ciencia moderna.",
+      "caracteristicas": [
+        "Adaptógeno natural para reducir el cortisol",
+        "Mejora calidad del sueño sin causar somnolencia diurna",
+        "Apoya recuperación y rendimiento deportivo",
+        "Reduce ansiedad relacionada al estrés",
+        "Producción nacional de calidad"
+      ],
+      "modoDeUso": "Tomar 1-2 cápsulas al día, preferiblemente con la cena o antes de dormir.",
+      "emoji": "🌿",
+      "imagen": "",
+      "imagenNutricional": "",
+      "sabores": [
+        {
+          "nombre": "Cápsulas 💊",
+          "imagen": ""
+        }
+      ],
+      "tamanios": [],
+      "badge": null,
+      "destacado": false,
+      "disponible": true
+    },
+    {
+      "id": "048",
+      "nombre": "Natura 506 Omega 3 Vegano — Aceite de Algas",
+      "marca": "NATURA 506",
+      "precio": null,
+      "precioAnterior": null,
+      "categorias": [
+        "suplementos",
+        "omega3"
+      ],
+      "descripcion": "El Omega 3 para quienes no comen pescado — directo de las algas, que es exactamente donde el pescado lo obtiene. Mismos beneficios de EPA y DHA sin ningún olor a pescado. 100% limpio, ético y efectivo.",
+      "caracteristicas": [
+        "Fuente vegana de EPA y DHA (aceite de algas)",
+        "Sin olor ni sabor a pescado",
+        "Apto para veganos y vegetarianos",
+        "Apoya salud cardiovascular y cerebral",
+        "Producción sostenible y libre de mercurio"
+      ],
+      "modoDeUso": "Tomar 1-2 cápsulas al día con alimentos.",
+      "emoji": "🌿",
+      "imagen": "",
+      "imagenNutricional": "",
+      "sabores": [
+        {
+          "nombre": "Cápsulas 💊",
+          "imagen": ""
+        }
+      ],
+      "tamanios": [],
+      "badge": null,
+      "destacado": false,
+      "disponible": true
+    },
+    {
+      "id": "049",
+      "nombre": "Natura 506 Prebióticos y Probióticos",
+      "marca": "NATURA 506",
+      "precio": null,
+      "precioAnterior": null,
+      "categorias": [
+        "otros",
+        "pro-pre-bioticos"
+      ],
+      "descripcion": "La salud empieza en el intestino — y ahí empieza también la absorción de todos los suplementos que tomás. Pre + Probióticos de NATURA 506 para equilibrar el microbioma, mejorar la digestión y fortalecer la inmunidad desde adentro.",
+      "caracteristicas": [
+        "Combina prebióticos y probióticos en una fórmula",
+        "Mejora la digestión y reduce inflamación intestinal",
+        "Fortalece el sistema inmunológico",
+        "Favorece la absorción de nutrientes de otros suplementos",
+        "Apoya el equilibrio del microbioma intestinal"
+      ],
+      "modoDeUso": "Tomar 1 cápsula al día, preferiblemente en ayunas o antes de la comida principal.",
+      "emoji": "🌿",
+      "imagen": "",
+      "imagenNutricional": "",
+      "sabores": [
+        {
+          "nombre": "Cápsulas 💊",
+          "imagen": ""
+        }
+      ],
+      "tamanios": [],
+      "badge": null,
+      "destacado": false,
+      "disponible": true
+    },
+    {
+      "id": "050",
+      "nombre": "LAB El Maná Bisglicinato de Magnesio 90 cápsulas",
+      "marca": "LAB MANA",
+      "precio": null,
+      "precioAnterior": null,
+      "categorias": [
+        "suplementos",
+        "magnesio"
+      ],
+      "descripcion": "Magnesio en su forma más absorbible: bisglicinato. Para recuperación muscular nocturna, mejor calidad de sueño y reducción de calambres. Un complemento que la mayoría de personas deberían tomar y pocos toman — LAB El Maná lo hace accesible.",
+      "caracteristicas": [
+        "Magnesio bisglicinato de alta biodisponibilidad",
+        "Reduce calambres y tensión muscular",
+        "Mejora la calidad del sueño",
+        "No causa efecto laxante como otras formas de magnesio",
+        "90 cápsulas — 3 meses de suplementación"
+      ],
+      "modoDeUso": "Tomar 1-2 cápsulas antes de dormir para favorecer relajación muscular y descanso profundo.",
+      "emoji": "🌿",
+      "imagen": "",
+      "imagenNutricional": "",
+      "sabores": [
+        {
+          "nombre": "Cápsulas 💊",
+          "imagen": ""
+        }
+      ],
+      "tamanios": [
+        {
+          "nombre": "90 servidas (90 caps)",
+          "imagen": "",
+          "sabores": []
+        }
+      ],
+      "badge": null,
+      "destacado": false,
+      "disponible": true
+    },
+    {
+      "id": "051",
+      "nombre": "LAB El Maná Ashwagandha 5% + Vitamina B12 — 60 cápsulas",
+      "marca": "LAB MANA",
+      "precio": null,
+      "precioAnterior": null,
+      "categorias": [
+        "suplementos",
+        "ashwaganda"
+      ],
+      "descripcion": "La combinación perfecta contra el agotamiento: Ashwagandha 5% para el estrés y B12 para la energía celular. Formulado para personas activas que necesitan más que solo proteína. Para rendir todo el día, no solo en el gym.",
+      "caracteristicas": [
+        "Ashwagandha estandarizada al 5% de withanólidos",
+        "Incluye Vitamina B12 para energía celular",
+        "Reduce estrés y mejora el estado de ánimo",
+        "Combate la fatiga física y mental",
+        "60 cápsulas — 2 meses de suplementación"
+      ],
+      "modoDeUso": "Tomar 1 cápsula al día con el desayuno o almuerzo para aprovechar el impulso de energía de la B12.",
+      "emoji": "🌿",
+      "imagen": "",
+      "imagenNutricional": "",
+      "sabores": [
+        {
+          "nombre": "Cápsulas 💊",
+          "imagen": ""
+        }
+      ],
+      "tamanios": [
+        {
+          "nombre": "60 servidas (60 caps)",
+          "imagen": "",
+          "sabores": []
+        }
+      ],
+      "badge": null,
+      "destacado": false,
+      "disponible": true
+    },
+    {
+      "id": "052",
+      "nombre": "LAB El Maná Ashwagandha 5% + Vitamina B12 — 90 cápsulas",
+      "marca": "LAB MANA",
+      "precio": null,
+      "precioAnterior": null,
+      "categorias": [
+        "suplementos",
+        "ashwaganda"
+      ],
+      "descripcion": "La versión extendida del combo anti-estrés de LAB El Maná. Más servicios para quienes ya comprobaron los beneficios y quieren mantenerlos por más tiempo. Ashwagandha 5% + B12 — el dúo que convierte el cansancio crónico en energía real.",
+      "caracteristicas": [
+        "Ashwagandha estandarizada al 5% + Vitamina B12",
+        "90 cápsulas — 3 meses de suplementación",
+        "Reduce cortisol y mejora energía diaria",
+        "Ideal para personas con alto estrés laboral o deportivo",
+        "Mejor costo por servicio que la presentación de 60"
+      ],
+      "modoDeUso": "Tomar 1 cápsula al día con alimentos, preferiblemente en la mañana.",
+      "emoji": "🌿",
+      "imagen": "",
+      "imagenNutricional": "",
+      "sabores": [
+        {
+          "nombre": "Cápsulas 💊",
+          "imagen": ""
+        }
+      ],
+      "tamanios": [
+        {
+          "nombre": "90 servidas (90 caps)",
+          "imagen": "",
+          "sabores": []
+        }
+      ],
+      "badge": null,
+      "destacado": false,
+      "disponible": true
+    },
+    {
+      "id": "053",
+      "nombre": "Nutrabio Potasio 120 cápsulas",
+      "marca": "NUTRABIO",
+      "precio": null,
+      "precioAnterior": null,
+      "categorias": [
+        "multivitaminicos",
+        "minerales"
+      ],
+      "descripcion": "El mineral que los atletas pierden en el sudor y casi nadie repone. Potasio NutraBio para prevenir calambres, mantener la presión arterial estable y apoyar la función muscular óptima. Pequeño en tamaño, enorme en impacto cuando entrenás duro.",
+      "caracteristicas": [
+        "Potasio en forma fácilmente absorbible",
+        "Previene calambres musculares",
+        "Apoya la función nerviosa y muscular",
+        "Ayuda a mantener presión arterial saludable",
+        "120 cápsulas — 4 meses de suplementación"
+      ],
+      "modoDeUso": "Tomar 1 cápsula al día con alimentos, idealmente en días de entrenamiento intenso o alta sudoración.",
+      "emoji": "🌿",
+      "imagen": "",
+      "imagenNutricional": "",
+      "sabores": [
+        {
+          "nombre": "Cápsulas 💊",
+          "imagen": ""
+        }
+      ],
+      "tamanios": [
+        {
+          "nombre": "120 servidas (120 caps)",
+          "imagen": "",
+          "sabores": []
+        }
+      ],
+      "badge": null,
+      "destacado": false,
+      "disponible": true
+    },
+    {
+      "id": "054",
+      "nombre": "Nutrex Mass Infusion Ganador de Masa",
+      "marca": "NUTREX",
+      "precio": null,
+      "precioAnterior": null,
+      "categorias": [
+        "suplementos",
+        "ganadores"
+      ],
+      "descripcion": "Para los que entrenan duro, comen bien y aún no logran subir de peso — NUTREX Mass Infusion aporta las calorías limpias que les faltan. Sin desperdiciar espacio en el estómago con rellenos baratos. La solución para el metabolismo que no perdona.",
+      "caracteristicas": [
+        "Alto aporte calórico para ganar masa muscular",
+        "Combina proteína + carbohidratos de calidad",
+        "Incluye creatina para mayor fuerza y volumen",
+        "Ideal para personas con metabolismo acelerado",
+        "19 servicios por envase"
+      ],
+      "modoDeUso": "Mezclar 1-4 scoops (según necesidad calórica) en 350-600ml de agua o leche. Tomar entre comidas o después del entrenamiento para maximizar ganancia de masa.",
+      "emoji": "🏋️",
+      "imagen": "",
+      "imagenNutricional": "",
+      "sabores": [
+        {
+          "nombre": "Chocolate 🍫",
+          "imagen": ""
+        },
+        {
+          "nombre": "Vainilla 🍦",
+          "imagen": ""
+        }
+      ],
+      "tamanios": [
+        {
+          "nombre": "19 servidas (4 scoops c/u)",
+          "imagen": "",
+          "sabores": []
+        }
+      ],
+      "badge": null,
+      "destacado": false,
+      "disponible": true
+    },
+    {
+      "id": "055",
+      "nombre": "Nutrabio Carbo Max Sin Sabor",
+      "marca": "NUTRABIO",
+      "precio": null,
+      "precioAnterior": null,
+      "categorias": [
+        "suplementos",
+        "ganadores"
+      ],
+      "descripcion": "El carbohidrato puro para antes, durante o después del entreno. Almidón de alto peso molecular que entra rápido, no fermenta y no hincha. Para rendimiento máximo y recuperación del glucógeno sin el malestar gástrico de los gainers comunes.",
+      "caracteristicas": [
+        "Carbohidrato de alto peso molecular (Cluster Dextrin)",
+        "Vaciado gástrico rápido — sin hinchazón",
+        "Repone glucógeno muscular rápidamente",
+        "Sin sabor — se mezcla con cualquier suplemento",
+        "75 servicios por envase"
+      ],
+      "modoDeUso": "Mezclar 1 scoop con tu proteína o EAA, antes, durante o después del entrenamiento, según tu necesidad energética.",
+      "emoji": "🏋️",
+      "imagen": "",
+      "imagenNutricional": "",
+      "sabores": [
+        {
+          "nombre": "Sin sabor 🥄",
+          "imagen": ""
+        }
+      ],
+      "tamanios": [
+        {
+          "nombre": "75 servidas",
+          "imagen": "",
+          "sabores": []
+        }
+      ],
+      "badge": null,
+      "destacado": false,
+      "disponible": true
+    },
+    {
+      "id": "056",
+      "nombre": "REDCON1 Ganador de Masa 6LBS",
+      "marca": "REDCON1",
+      "precio": null,
+      "precioAnterior": null,
+      "categorias": [
+        "suplementos",
+        "ganadores"
+      ],
+      "descripcion": "REDCON1 diseñó su gainer para militares y atletas que necesitan resultados reales, no hinchazón. Proteína de calidad + carbohidratos complejos en una fórmula balanceada. Para subir masa de verdad, no solo el número en la báscula.",
+      "caracteristicas": [
+        "Combina proteína de calidad + carbohidratos complejos",
+        "Alto aporte calórico para hard gainers",
+        "Fórmula balanceada sin azúcares excesivos",
+        "6 libras — gran rendimiento por envase",
+        "8 servicios de 5 scoops cada uno"
+      ],
+      "modoDeUso": "Mezclar 5 scoops en 500-700ml de agua o leche. Tomar entre comidas o después del entrenamiento, ajustando la porción según tus necesidades calóricas.",
+      "emoji": "🏋️",
+      "imagen": "",
+      "imagenNutricional": "",
+      "sabores": [
+        {
+          "nombre": "Chocolate 🍫",
+          "imagen": ""
+        },
+        {
+          "nombre": "Vainilla 🍦",
+          "imagen": ""
+        }
+      ],
+      "tamanios": [
+        {
+          "nombre": "8 servidas (6lb)",
+          "imagen": "",
+          "sabores": []
+        }
+      ],
+      "badge": null,
+      "destacado": false,
+      "disponible": true
+    },
+    {
+      "id": "057",
+      "nombre": "Rule 1 Whey Protein — 30 servicios",
+      "marca": "RULE 1",
+      "precio": null,
+      "precioAnterior": null,
+      "categorias": [
+        "proteinas",
+        "whey"
+      ],
+      "descripcion": "RULE ONE se hizo famosa por una sola razón: ingredientes 100% en lo que dice la etiqueta. Whey con aislado como fuente principal — más proteína real por scoop, menos relleno. El tamaño starter para quien quiere probar la diferencia.",
+      "caracteristicas": [
+        "25g de proteína por servicio, aislado como base",
+        "Etiqueta 100% transparente, sin \"blends\" ocultos",
+        "Rápida absorción y excelente solubilidad",
+        "Sabores premium muy bien calificados",
+        "30 servicios — tamaño ideal para probar"
+      ],
+      "modoDeUso": "Mezclar 1 scoop en 180-250ml de agua o leche. Consumir después del entrenamiento o entre comidas para completar tu ingesta de proteína diaria.",
+      "emoji": "💪",
+      "imagen": "",
+      "imagenNutricional": "",
+      "sabores": [
+        {
+          "nombre": "Chocolate Fudge 🍫",
+          "imagen": ""
+        },
+        {
+          "nombre": "Vanilla Creme 🍦",
+          "imagen": ""
+        },
+        {
+          "nombre": "Cookies & Cream 🍪",
+          "imagen": ""
+        }
+      ],
+      "tamanios": [
+        {
+          "nombre": "30 servidas",
+          "imagen": "",
+          "sabores": []
+        }
+      ],
+      "badge": null,
+      "destacado": false,
+      "disponible": true
+    },
+    {
+      "id": "058",
+      "nombre": "Rule 1 Whey Protein — 70 servicios",
+      "marca": "RULE 1",
+      "precio": null,
+      "precioAnterior": null,
+      "categorias": [
+        "proteinas",
+        "whey"
+      ],
+      "descripcion": "La presentación más popular de Rule One Whey — suficiente para 10 semanas de entrenamiento consistente. Aislado como primera fuente, etiqueta completamente transparente y sabores que no cansan. Para quienes ya saben lo que buscan.",
+      "caracteristicas": [
+        "25g de proteína por servicio, aislado como base",
+        "70 servicios — más de 2 meses de uso diario",
+        "Etiqueta transparente sin ingredientes ocultos",
+        "Excelente solubilidad y sabor",
+        "La presentación más popular de la marca"
+      ],
+      "modoDeUso": "Mezclar 1 scoop en 180-250ml de agua o leche. Tomar 1-2 veces al día según tus necesidades de proteína.",
+      "emoji": "💪",
+      "imagen": "",
+      "imagenNutricional": "",
+      "sabores": [
+        {
+          "nombre": "Chocolate Fudge 🍫",
+          "imagen": ""
+        },
+        {
+          "nombre": "Vanilla Creme 🍦",
+          "imagen": ""
+        },
+        {
+          "nombre": "Cookies & Cream 🍪",
+          "imagen": ""
+        },
+        {
+          "nombre": "Fruity Cereal 🌈",
+          "imagen": ""
+        }
+      ],
+      "tamanios": [
+        {
+          "nombre": "70 servidas",
+          "imagen": "",
+          "sabores": []
+        }
+      ],
+      "badge": null,
+      "destacado": false,
+      "disponible": true
+    },
+    {
+      "id": "059",
+      "nombre": "Rule 1 Whey Protein — 130 servicios",
+      "marca": "RULE 1",
+      "precio": null,
+      "precioAnterior": null,
+      "categorias": [
+        "proteinas",
+        "whey"
+      ],
+      "descripcion": "El frasco grande para quienes ya hicieron de Rule One su proteína de cabecera. 130 servicios de whey de primera calidad al mejor costo por servicio del mercado. La proteína que compra quien piensa en el largo plazo.",
+      "caracteristicas": [
+        "25g de proteína por servicio, aislado como base",
+        "130 servicios — más de 4 meses de suministro",
+        "El mejor costo por servicio de toda la línea",
+        "Etiqueta 100% transparente",
+        "Ideal para uso constante o compartido"
+      ],
+      "modoDeUso": "Mezclar 1 scoop en 180-250ml de agua o leche, 1-2 veces al día según tu plan nutricional.",
+      "emoji": "💪",
+      "imagen": "",
+      "imagenNutricional": "",
+      "sabores": [
+        {
+          "nombre": "Chocolate Fudge 🍫",
+          "imagen": ""
+        },
+        {
+          "nombre": "Vanilla Creme 🍦",
+          "imagen": ""
+        }
+      ],
+      "tamanios": [
+        {
+          "nombre": "130 servidas",
+          "imagen": "",
+          "sabores": []
+        }
+      ],
+      "badge": null,
+      "destacado": false,
+      "disponible": true
+    },
+    {
+      "id": "060",
+      "nombre": "Rule 1 Isolate Protein — 30 servicios",
+      "marca": "RULE 1",
+      "precio": null,
+      "precioAnterior": null,
+      "categorias": [
+        "proteinas",
+        "isoladas"
+      ],
+      "descripcion": "La isolada de RULE ONE: filtrada en frío para preservar los aminoácidos, sin lactosa, sin grasa. Para quienes ya superaron las whey blend y no piensan volver atrás. Probala con el frasco chico y después contanos.",
+      "caracteristicas": [
+        "Proteína isolada filtrada en frío",
+        "Sin lactosa, sin grasa, mínimo carbohidrato",
+        "Digestión rápida y perfil limpio",
+        "Etiqueta transparente sin rellenos",
+        "30 servicios — tamaño ideal para probar"
+      ],
+      "modoDeUso": "Mezclar 1 scoop en 180-250ml de agua fría. Ideal post-entrenamiento o en cualquier etapa de definición.",
+      "emoji": "🥛",
+      "imagen": "",
+      "imagenNutricional": "",
+      "sabores": [
+        {
+          "nombre": "Chocolate Fudge 🍫",
+          "imagen": ""
+        },
+        {
+          "nombre": "Vanilla Creme 🍦",
+          "imagen": ""
+        }
+      ],
+      "tamanios": [
+        {
+          "nombre": "30 servidas",
+          "imagen": "",
+          "sabores": []
+        }
+      ],
+      "badge": null,
+      "destacado": false,
+      "disponible": true
+    },
+    {
+      "id": "061",
+      "nombre": "Rule 1 Isolate Protein — 70 servicios",
+      "marca": "RULE 1",
+      "precio": null,
+      "precioAnterior": null,
+      "categorias": [
+        "proteinas",
+        "isoladas"
+      ],
+      "descripcion": "Más de 2 meses de isolada premium al costo por servicio correcto. Rule One ISO: 0 compromisos, etiqueta transparente, digestión ultrarrápida. Para quien sabe que una buena isolada no debería costar una fortuna.",
+      "caracteristicas": [
+        "Proteína isolada filtrada en frío, 0 lactosa",
+        "70 servicios — más de 2 meses de uso",
+        "Excelente relación calidad-precio en isoladas",
+        "Digestión ultrarrápida",
+        "Etiqueta transparente sin sorpresas"
+      ],
+      "modoDeUso": "Mezclar 1 scoop en 180-250ml de agua fría, idealmente después del entrenamiento.",
+      "emoji": "🥛",
+      "imagen": "",
+      "imagenNutricional": "",
+      "sabores": [
+        {
+          "nombre": "Chocolate Fudge 🍫",
+          "imagen": ""
+        },
+        {
+          "nombre": "Vanilla Creme 🍦",
+          "imagen": ""
+        },
+        {
+          "nombre": "Cookies & Cream 🍪",
+          "imagen": ""
+        }
+      ],
+      "tamanios": [
+        {
+          "nombre": "70 servidas",
+          "imagen": "",
+          "sabores": []
+        }
+      ],
+      "badge": null,
+      "destacado": false,
+      "disponible": true
+    },
+    {
+      "id": "062",
+      "nombre": "Rule 1 Isolate Protein — 130 servicios",
+      "marca": "RULE 1",
+      "precio": null,
+      "precioAnterior": null,
+      "categorias": [
+        "proteinas",
+        "isoladas"
+      ],
+      "descripcion": "El frasco definitivo de la isolada que ya conocés. 130 servicios de proteína pura de Rule One — la inversión que más sentido hace cuando encontraste la proteína que funciona para tu cuerpo. Sin rellenos, sin excusas.",
+      "caracteristicas": [
+        "Proteína isolada filtrada en frío, 0 lactosa",
+        "130 servicios — más de 4 meses de uso",
+        "Mejor costo por servicio de la línea isolada",
+        "Digestión ultrarrápida, perfil 100% limpio",
+        "Para uso constante a largo plazo"
+      ],
+      "modoDeUso": "Mezclar 1 scoop en 180-250ml de agua fría, 1-2 veces al día según tu plan.",
+      "emoji": "🥛",
+      "imagen": "",
+      "imagenNutricional": "",
+      "sabores": [
+        {
+          "nombre": "Chocolate Fudge 🍫",
+          "imagen": ""
+        },
+        {
+          "nombre": "Vanilla Creme 🍦",
+          "imagen": ""
+        }
+      ],
+      "tamanios": [
+        {
+          "nombre": "130 servidas",
+          "imagen": "",
+          "sabores": []
+        }
+      ],
+      "badge": null,
+      "destacado": false,
+      "disponible": true
+    },
+    {
+      "id": "063",
+      "nombre": "Neszu 9000 Pre-Workout",
+      "marca": "NESZU",
+      "precio": null,
+      "precioAnterior": null,
+      "categorias": [
+        "suplementos",
+        "pre-entrenos"
+      ],
+      "descripcion": "El pre-workout de la marca tica que ya conocés. NESZU 9000 ofrece energía real para rendir en el gym sin el crash exagerado de los pre-workouts importados sobrecargados. Formulado pensando en el atleta costarricense que entrena duro y quiere un producto honesto.",
+      "caracteristicas": [
+        "Energía sostenida sin crash exagerado",
+        "Incluye cafeína y compuestos para foco mental",
+        "Mejora el rendimiento y la resistencia en el entreno",
+        "Producción nacional con buen costo",
+        "Sabores frescos y refrescantes"
+      ],
+      "modoDeUso": "Mezclar 1 scoop en 250-300ml de agua fría. Tomar 20-30 minutos antes de entrenar. No exceder 1 scoop diario ni consumir en horas cercanas a dormir.",
+      "emoji": "⚡",
+      "imagen": "",
+      "imagenNutricional": "",
+      "sabores": [
+        {
+          "nombre": "Blue Raspberry 🫐",
+          "imagen": ""
+        },
+        {
+          "nombre": "Watermelon 🍉",
+          "imagen": ""
+        },
+        {
+          "nombre": "Fruit Punch 🍉",
+          "imagen": ""
+        }
+      ],
+      "tamanios": [],
+      "badge": null,
+      "destacado": false,
+      "disponible": true
     }
   ],
   "stacks": []
