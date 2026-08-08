@@ -385,9 +385,9 @@ function openProductModal(id){
      If simple sabores array: show directly. */
   let saboresEl='';
   let initFlavors=[];
-  if(isTamObj(p) && p.tamanios[0]?.sabores?.length>0){
-    initFlavors=p.tamanios[0].sabores;
-  } else if(!isTamObj(p) && p.sabores && p.sabores.length>1){
+  if(p.sabores && p.sabores.length>0){
+    initFlavors=p.sabores;
+  } else if(p.sabores && p.sabores.length>1){
     initFlavors=p.sabores;
   }
   if(initFlavors.length>1){
