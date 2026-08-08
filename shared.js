@@ -94,7 +94,12 @@ function prodHasCat(p,catId){
 /* ── CONFIG ──────────────────────────────────────────────── */
 const BW={WA:'50661179692',CURRENCY:'₡',DATA:'productos.json'};
 function fmt(n){return BW.CURRENCY+Number(n).toLocaleString('es-CR')}
-function waLink(nombre){return`https://wa.me/${BW.WA}?text=${encodeURIComponent('Hola, me interesa el siguiente producto:\n• '+nombre)}`}
+function waLink(nombre, sabor, tamanio){
+  let msg = 'Hola, me interesa el siguiente producto:\n• ' + nombre;
+  if(tamanio) msg += '\n  Presentación: ' + tamanio;
+  if(sabor)   msg += '\n  Sabor: ' + sabor;
+  return `https://wa.me/${BW.WA}?text=${encodeURIComponent(msg)}`;
+}
 function waSVG(){return`<svg viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>`}
 function heartSVG(f){return`<svg viewBox="0 0 24 24" fill="${f?'currentColor':'none'}" stroke="currentColor" stroke-width="2"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg>`}
 function cartSVG(){return`<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="14" height="14"><path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"/><line x1="3" y1="6" x2="21" y2="6"/><path d="M16 10a4 4 0 0 1-8 0"/></svg>`}
@@ -119,10 +124,21 @@ function toggleLike(id,prods){
   saveWishlist(_wishlist);refreshWishlistUI(prods);
   document.querySelectorAll(`.like-btn[data-id="${id}"]`).forEach(b=>{b.classList.toggle('liked',isLiked(id));b.style.transform='scale(1.35)';setTimeout(()=>{b.style.transform=''},200)});
 }
-function addToCart(p){
-  const item=inCart(p.id);
-  if(item)item.qty=(item.qty||1)+1;
-  else _cart.push({id:p.id,nombre:p.nombre,precio:p.precio,emoji:p.emoji||'📦',imagen:p.imagen||'',qty:1});
+function addToCart(p, sabor, tamanio){
+  const key = p.id + '|' + (sabor||'') + '|' + (tamanio||'');
+  const item = _cart.find(c=>c._key===key);
+  if(item) item.qty=(item.qty||1)+1;
+  else _cart.push({
+    _key: key,
+    id: p.id,
+    nombre: p.nombre,
+    precio: p.precio,
+    emoji: p.emoji||'📦',
+    imagen: p.imagen||'',
+    sabor: sabor||'',
+    tamanio: tamanio||'',
+    qty: 1
+  });
   saveCart(_cart);refreshCartUI();
   const b=document.getElementById('cartNavBtn');if(b){b.style.transform='scale(1.3)';setTimeout(()=>{b.style.transform=''},200)}
 }
@@ -141,10 +157,16 @@ function renderCartModal(){
   if(!body)return;
   if(!_cart.length){body.innerHTML=`<div class="cart-empty"><svg viewBox="0 0 24 24" fill="none" stroke="#ccc" stroke-width="1.5" width="48" height="48"><path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"/><line x1="3" y1="6" x2="21" y2="6"/><path d="M16 10a4 4 0 0 1-8 0"/></svg><p style="margin-top:10px;font-size:14px;color:#aaa">Tu carrito está vacío</p></div>`;if(footer)footer.innerHTML='';return}
   const grand=_cart.reduce((s,c)=>s+c.precio*(c.qty||1),0);
-  body.innerHTML=_cart.map(c=>`<div class="cart-item"><div class="ci-img">${c.imagen?`<img src="${c.imagen}" alt="" loading="lazy">`:c.emoji}</div><div class="ci-info"><div class="ci-name">${c.nombre}</div><div class="ci-price">${fmt(c.precio*(c.qty||1))}</div><div class="ci-qty"><button onclick="changeQty('${c.id}',-1)">−</button><span>${c.qty||1}</span><button onclick="changeQty('${c.id}',1)">+</button></div></div><button class="ci-remove" onclick="removeFromCart('${c.id}')">✕</button></div>`).join('');
+  body.innerHTML=_cart.map(c=>`<div class="cart-item"><div class="ci-img">${c.imagen?`<img src="${c.imagen}" alt="" loading="lazy">`:c.emoji}</div><div class="ci-info"><div class="ci-name">${c.nombre}</div>${c.tamanio||c.sabor?`<div class="ci-variant">${[c.tamanio,c.sabor].filter(Boolean).join(' · ')}</div>`:''}<div class="ci-price">${fmt(c.precio*(c.qty||1))}</div><div class="ci-qty"><button onclick="changeQty('${c.id}',-1)">−</button><span>${c.qty||1}</span><button onclick="changeQty('${c.id}',1)">+</button></div></div><button class="ci-remove" onclick="removeFromCart('${c.id}')">✕</button></div>`).join('');
   if(footer){
-    const lines=_cart.map(c=>`• ${c.nombre} ×${c.qty||1} — ${fmt(c.precio*(c.qty||1))}`).join('\n');
-    const msg=encodeURIComponent(`Hola, quiero los siguientes productos:\n${lines}\n\nTotal estimado: ${fmt(grand)}`);
+const lines=_cart.map(c=>{
+  let line = `• ${c.nombre}`;
+  if(c.tamanio) line += ` | ${c.tamanio}`;
+  if(c.sabor)   line += ` | ${c.sabor}`;
+  line += ` ×${c.qty||1} — ${fmt(c.precio*(c.qty||1))}`;
+  return line;
+}).join('\n');
+     const msg=encodeURIComponent(`Hola, quiero los siguientes productos:\n${lines}\n\nTotal estimado: ${fmt(grand)}`);
     footer.innerHTML=`<div class="cart-total"><span>Total estimado</span><span>${fmt(grand)}</span></div><a href="https://wa.me/${BW.WA}?text=${msg}" class="cart-checkout-btn" target="_blank">${waSVG()} FINALIZAR COMPRA</a>`;
   }
 }
@@ -292,7 +314,7 @@ function pmUpdateImage() {
   }
 }
 
-window.pmChangeTamanio = function(sel) {
+window.pmChangeTamanio = function(sel)_pmUpdateWABtn(); {
   const idx = parseInt(sel.value);
   _pmTamIdx = isNaN(idx) ? null : idx;
 
@@ -315,7 +337,16 @@ window.pmChangeSabor = function(sel) {
   const idx = parseInt(sel.value);
   _pmSabIdx = isNaN(idx) ? null : idx;
   pmUpdateImage();
+  _pmUpdateWABtn();
 };
+
+function _pmUpdateWABtn() {
+  const btn = document.querySelector('.pm-btn-wa');
+  if(!btn || !_pmProduct) return;
+  const sabor   = _pmSabIdx !== null ? (_pmProduct.sabores?.[_pmSabIdx]?.nombre || '') : '';
+  const tamanio = _pmTamIdx !== null ? (getTamNombre(_pmProduct.tamanios?.[_pmTamIdx]) || '') : '';
+  btn.href = waLink(_pmProduct.nombre, sabor, tamanio);
+}
 
 window.pmSwapImg = function(thumb) {
   document.querySelectorAll('.pm-thumb').forEach(t=>t.classList.remove('active'));
@@ -419,7 +450,7 @@ function openProductModal(id){
       <div class="pm-variants">${tamaniosEl}${saboresEl}</div>
       <div class="pm-actions">
         <a class="pm-btn-wa" href="${waLink(p.nombre)}" target="_blank">${waSVG()} Comprar por WhatsApp</a>
-        <button class="pm-btn-cart" onclick="addToCart(${JSON.stringify({id:p.id,nombre:p.nombre,precio:p.precio,emoji:p.emoji,imagen:p.imagen||''}).replace(/"/g,'&quot;')});closeMod('productModal')">${cartSVG()} Añadir al carrito</button>
+        <button class="pm-btn-cart" onclick="   const s=document.getElementById('pmSaborSelect');   const t=document.getElementById('pmTamanioSelect');   const sNom=s?s.options[s.selectedIndex]?.text:'';   const tNom=t?t.options[t.selectedIndex]?.text:'';   addToCart(${JSON.stringify({id:p.id,nombre:p.nombre,precio:p.precio,emoji:p.emoji,imagen:p.imagen||''}).replace(/"/g,'&quot;')},     sNom==='Elige un sabor'?'':sNom,     tNom==='Elige un tamaño'||tNom==='Elige una opción'?'':tNom);   closeMod('productModal')">${cartSVG()} Añadir al carrito</button>
         <button class="pm-btn-like ${isLiked(p.id)?'liked':''}" id="pmLikeBtn" data-id="${p.id}">${heartSVG(isLiked(p.id))} ${isLiked(p.id)?'En favoritos':'Agregar a favoritos'}</button>
       </div>
     </div>`;
